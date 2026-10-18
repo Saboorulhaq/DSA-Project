@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <title>Just a moment... - The Movie Database (TMDb)</title>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex">
+    <meta name="viewport" content="width=1120">
+    <meta name="theme-color" content="#032541">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon-32x32-543a21832c8931d3494a68881f6afcafc58e96c5d324345377f3197a37b367b5.png">
+    <link rel="stylesheet" href="/assets/v4/fonts-36ddd04013299b102c5aa8b9f8098a1cb925ca0e8e037e557f7e65870703a6bb.css" media="screen">
+    <link rel="stylesheet" href="/assets/application-3619bce98ff2736e0f0ecf793917e42178112bd7db629cc0be689b26e9ac4742.css" media="screen">
+    <link rel="stylesheet" href="/assets/v4/errors-63f27e9c55bb287cca52b63eb29a8535a8f61fec9e48c6b380240014ef973bc7.css" media="screen">
+  </head>
+<body class="en v4" data-cookie="tmdb_challenge" data-token="1792235630.d69db3101e096ad1ab4bb25f939c43180f7d067b">
+  <div class="page_wrap _wrap">
+    <div class="card">
+        <div class="header">
+          <img src="https://www.themoviedb.org/assets/apple-touch-icon-57ed4b3b0450fd5e9a0c20f34e814b82adaa1085c79bdde2f00ca8787b63d2c4.png" width="60" height="60" alt="TMDB">
+        </div>
+
+        <h2 id="checking">Checking your browser...</h2>
+        <noscript><p>Please enable JavaScript and cookies to continue.</p></noscript>
+        <div id="failed" hidden>
+          <h2>We couldn't verify your browser</h2>
+          <p>Please make sure cookies are enabled, then reload the page.</p>
+        </div>
+      </div>
+    </div>
+    <script>
+      (function () {
+        var body = document.body;
+        var now = Date.now();
+        var attempts = 1;
+
+        // Stop reloading if the cookie isn't sticking (cookies blocked, or the client keeps changing address).
+        try {
+          var last = JSON.parse(sessionStorage.getItem("tmdb_challenge") || "{}");
+          if (last.at && now - last.at < 30000) {
+            attempts = (last.attempts || 0) + 1;
+          }
+          sessionStorage.setItem("tmdb_challenge", JSON.stringify({ at: now, attempts: attempts }));
+        } catch (e) {}
+
+        if (attempts > 3) {
+          document.getElementById("checking").hidden = true;
+          document.getElementById("failed").hidden = false;
+          return;
+        }
+
+        document.cookie = body.getAttribute("data-cookie") + "=" + body.getAttribute("data-token") +
+          "; path=/; max-age=86400; SameSite=Lax" + (location.protocol === "https:" ? "; Secure" : "");
+        location.reload();
+      })();
+    </script>
+  </body>
+</html>

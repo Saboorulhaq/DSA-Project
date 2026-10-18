@@ -1,0 +1,1001 @@
+designation,number,provisional,named_after,disc_date,site,discoverer,category,diameter_km
+1 Ceres,1,—,Ceres,"January 1, 1801",Palermo,G. Piazzi,·,939.0
+2 Pallas,2,—,Pallas,"March 28, 1802",Bremen,H. W. Olbers,PAL,513.0
+3 Juno,3,—,Juno,"September 1, 1804",Sternwarte Lilienthal,K. Harding,JUN,247.0
+4 Vesta,4,—,Vesta,"March 29, 1807",Bremen,H. W. Olbers,V,523.0
+5 Astraea,5,—,Astraea,"December 8, 1845",Driesen,K. L. Hencke,(5),107.0
+6 Hebe,6,—,Hebe,"July 1, 1847",Driesen,K. L. Hencke,PHO,185.0
+7 Iris,7,—,Iris,"August 13, 1847",London,J. R. Hind,·,200.0
+8 Flora,8,—,Flora,"October 18, 1847",London,J. R. Hind,·,147.0
+9 Metis,9,—,Metis,"April 25, 1848",Markree,A. Graham,·,190.0
+10 Hygiea,10,—,Hygiea,"April 12, 1849",Naples,A. de Gasparis,HYG,407.0
+11 Parthenope,11,—,Parthenope,"May 11, 1850",Naples,A. de Gasparis,·,143.0
+12 Victoria,12,—,Victoria,"September 13, 1850",London,J. R. Hind,·,115.0
+13 Egeria,13,—,Egeria,"November 2, 1850",Naples,A. de Gasparis,·,203.0
+14 Irene,14,—,Irene,"May 19, 1851",London,J. R. Hind,·,152.0
+15 Eunomia,15,—,Eunomia,"July 29, 1851",Naples,A. de Gasparis,EUN,232.0
+16 Psyche,16,—,Psyche,"March 17, 1852",Naples,A. de Gasparis,·,222.0
+17 Thetis,17,—,Thetis,"April 17, 1852",Düsseldorf,R. Luther,·,85.0
+18 Melpomene,18,—,Melpomene,"June 24, 1852",London,J. R. Hind,·,140.0
+19 Fortuna,19,—,Fortuna,"August 22, 1852",London,J. R. Hind,·,200.0
+20 Massalia,20,—,Massalia,"September 19, 1852",Naples,A. de Gasparis,MAS,136.0
+21 Lutetia,21,—,Lutetia,"November 15, 1852",Paris,H. Goldschmidt,·,98.0
+22 Kalliope,22,—,Kalliope,"November 16, 1852",London,J. R. Hind,moon,168.0
+23 Thalia,23,—,Thalia,"December 15, 1852",London,J. R. Hind,·,108.0
+24 Themis,24,—,Themis,"April 5, 1853",Naples,A. de Gasparis,THM,198.0
+25 Phocaea,25,—,Phocaea,"April 6, 1853",Marseilles,J. Chacornac,PHO,61.0
+26 Proserpina,26,—,Proserpina,"May 5, 1853",Düsseldorf,R. Luther,·,95.0
+27 Euterpe,27,—,Euterpe,"November 8, 1853",London,J. R. Hind,·,96.0
+28 Bellona,28,—,Bellona,"March 1, 1854",Düsseldorf,R. Luther,·,121.0
+29 Amphitrite,29,—,Amphitrite,"March 1, 1854",London,A. Marth,·,190.0
+30 Urania,30,—,Urania,"July 22, 1854",London,J. R. Hind,·,93.0
+31 Euphrosyne,31,—,Euphrosyne,"September 1, 1854",Washington,J. Ferguson,EUP · moon,267.0
+32 Pomona,32,—,Pomona,"October 26, 1854",Paris,H. Goldschmidt,·,81.0
+33 Polyhymnia,33,—,Polyhymnia,"October 28, 1854",Paris,J. Chacornac,·,53.0
+34 Circe,34,—,Circe,"April 6, 1855",Paris,J. Chacornac,·,133.0
+35 Leukothea,35,—,Leukothea,"April 19, 1855",Düsseldorf,R. Luther,·,103.0
+36 Atalante,36,—,Atalante,"October 5, 1855",Paris,H. Goldschmidt,·,133.0
+37 Fides,37,—,Fides,"October 5, 1855",Düsseldorf,R. Luther,·,108.0
+38 Leda,38,—,Leda,"January 12, 1856",Paris,J. Chacornac,·,92.0
+39 Laetitia,39,—,Laetitia,"February 8, 1856",Paris,J. Chacornac,·,179.0
+40 Harmonia,40,—,Harmonia,"March 31, 1856",Paris,H. Goldschmidt,·,111.0
+41 Daphne,41,—,Daphne,"May 22, 1856",Paris,H. Goldschmidt,moon,205.0
+42 Isis,42,—,Isis,"May 23, 1856",Oxford,N. R. Pogson,·,111.0
+43 Ariadne,43,—,Ariadne,"April 15, 1857",Oxford,N. R. Pogson,·,71.0
+44 Nysa,44,—,Nysa,"May 27, 1857",Paris,H. Goldschmidt,NYS,71.0
+45 Eugenia,45,—,Eugenia,"June 27, 1857",Paris,H. Goldschmidt,moon,202.0
+46 Hestia,46,—,Hestia,"August 16, 1857",Oxford,N. R. Pogson,·,131.0
+47 Aglaja,47,—,Aglaja,"September 15, 1857",Düsseldorf,R. Luther,·,168.0
+48 Doris,48,—,Doris,"September 19, 1857",Paris,H. Goldschmidt,·,216.0
+49 Pales,49,—,Pales,"September 19, 1857",Paris,H. Goldschmidt,·,166.0
+50 Virginia,50,—,Virginia,"October 4, 1857",Washington,J. Ferguson,·,84.0
+51 Nemausa,51,—,Nemausa,"January 22, 1858",Nîmes,J. J. P. Laurent,·,138.0
+52 Europa,52,—,Europa,"February 4, 1858",Paris,H. Goldschmidt,·,304.0
+53 Kalypso,53,—,Kalypso,"April 4, 1858",Düsseldorf,R. Luther,·,97.0
+54 Alexandra,54,—,Alexandra,"September 10, 1858",Paris,H. Goldschmidt,·,160.0
+55 Pandora,55,—,Pandora,"September 10, 1858",Albany,G. Searle,·,85.0
+56 Melete,56,—,Melete,"September 9, 1857",Paris,H. Goldschmidt,·,121.0
+57 Mnemosyne,57,—,Mnemosyne,"September 22, 1859",Düsseldorf,R. Luther,·,113.0
+58 Concordia,58,—,Concordia,"March 24, 1860",Düsseldorf,R. Luther,·,107.0
+59 Elpis,59,—,Elpis,"September 12, 1860",Paris,J. Chacornac,·,165.0
+60 Echo,60,—,Echo,"September 14, 1860",Washington,J. Ferguson,·,43.0
+61 Danaë,61,—,Danaë,"September 9, 1860",Paris,H. Goldschmidt,·,86.0
+62 Erato,62,—,Erato,"September 14, 1860",Berlin,"O. Lesser, W. Foerster",THM,107.0
+63 Ausonia,63,—,Ausonia,"February 10, 1861",Naples,A. de Gasparis,V,116.0
+64 Angelina,64,—,Angelina,"March 4, 1861",Marseilles,E. W. Tempel,·,58.0
+65 Cybele,65,—,Cybele,"March 8, 1861",Marseilles,E. W. Tempel,CYB,237.0
+66 Maja,66,—,Maja,"April 9, 1861",Cambridge,H. P. Tuttle,·,72.0
+67 Asia,67,—,Asia,"April 17, 1861",Madras,N. R. Pogson,·,56.0
+68 Leto,68,—,Leto,"April 29, 1861",Düsseldorf,R. Luther,·,123.0
+69 Hesperia,69,—,Hesperia,"April 29, 1861",Milan,G. Schiaparelli,·,138.0
+70 Panopaea,70,—,Panopaea,"May 5, 1861",Paris,H. Goldschmidt,·,128.0
+71 Niobe,71,—,Niobe,"August 13, 1861",Düsseldorf,R. Luther,·,83.0
+72 Feronia,72,—,Feronia,"May 29, 1861",Clinton,C. H. F. Peters,·,75.0
+73 Klytia,73,—,Klytia,"April 7, 1862",Cambridge,H. P. Tuttle,·,45.0
+74 Galatea,74,—,Galatea,"August 29, 1862",Marseilles,E. W. Tempel,·,119.0
+75 Eurydike,75,—,Eurydike,"September 22, 1862",Clinton,C. H. F. Peters,·,62.0
+76 Freia,76,—,Freia,"October 21, 1862",Copenhagen Observatory,H. d'Arrest,CYB,145.0
+77 Frigga,77,—,Frigga,"November 12, 1862",Clinton,C. H. F. Peters,·,61.0
+78 Diana,78,—,Diana,"March 15, 1863",Düsseldorf,R. Luther,·,121.0
+79 Eurynome,79,—,Eurynome,"September 14, 1863",Ann Arbor,J. C. Watson,·,63.0
+80 Sappho,80,—,Sappho,"May 2, 1864",Madras,N. R. Pogson,·,69.0
+81 Terpsichore,81,—,Terpsichore,"September 30, 1864",Marseilles,E. W. Tempel,·,118.0
+82 Alkmene,82,—,Alkmene,"November 27, 1864",Düsseldorf,R. Luther,·,58.0
+83 Beatrix,83,—,Beatrix,"April 26, 1865",Naples,A. de Gasparis,·,111.0
+84 Klio,84,—,Klio,"August 25, 1865",Düsseldorf,R. Luther,·,79.0
+85 Io,85,—,Io,"September 19, 1865",Clinton,C. H. F. Peters,EUN ·,155.0
+86 Semele,86,—,Semele,"January 4, 1866",Berlin,F. Tietjen,·,110.0
+87 Sylvia,87,—,Sylvia,"May 16, 1866",Madras,N. R. Pogson,SYL · CYB · moon,253.0
+88 Thisbe,88,—,Thisbe,"June 15, 1866",Clinton,C. H. F. Peters,·,232.0
+89 Julia,89,—,Julia,"August 6, 1866",Marseilles,É. Stephan,·,145.0
+90 Antiope,90,—,Antiope,"October 1, 1866",Düsseldorf,R. Luther,THM · moon,116.0
+91 Aegina,91,—,Aegina,"November 4, 1866",Marseilles,É. Stephan,(5),103.0
+92 Undina,92,—,Undina,"July 7, 1867",Clinton,C. H. F. Peters,·,126.0
+93 Minerva,93,—,Minerva,"August 24, 1867",Ann Arbor,J. C. Watson,GEF · moon ·,154.0
+94 Aurora,94,—,Aurora,"September 6, 1867",Ann Arbor,J. C. Watson,·,205.0
+95 Arethusa,95,—,Arethusa,"November 23, 1867",Düsseldorf,R. Luther,·,148.0
+96 Aegle,96,—,Aegle,"February 17, 1868",Marseilles,J. Coggia,AEG,178.0
+97 Klotho,97,—,Klotho,"February 17, 1868",Marseilles,E. W. Tempel,·,101.0
+98 Ianthe,98,—,Ianthe,"April 18, 1868",Clinton,C. H. F. Peters,·,133.0
+99 Dike,99,—,Dike,"May 28, 1868",Marseilles,A. Borrelly,·,67.0
+100 Hekate,100,—,Hekate,"July 11, 1868",Ann Arbor,J. C. Watson,HYG ·,86.0
+101 Helena,101,—,Helena,"August 15, 1868",Ann Arbor,J. C. Watson,·,66.0
+102 Miriam,102,—,Miriam,"August 22, 1868",Clinton,C. H. F. Peters,·,83.0
+103 Hera,103,—,Hera,"September 7, 1868",Ann Arbor,J. C. Watson,·,84.0
+104 Klymene,104,—,Klymene,"September 13, 1868",Ann Arbor,J. C. Watson,THM,137.0
+105 Artemis,105,—,Artemis,"September 16, 1868",Ann Arbor,J. C. Watson,PHO,95.0
+106 Dione,106,—,Dione,"October 10, 1868",Ann Arbor,J. C. Watson,·,208.0
+107 Camilla,107,—,Camilla,"November 17, 1868",Madras,N. R. Pogson,CYB · moon,210.0
+108 Hecuba,108,—,Hecuba,"April 2, 1869",Düsseldorf,R. Luther,HYG ·,75.0
+109 Felicitas,109,—,Felicitas,"October 9, 1869",Clinton,C. H. F. Peters,·,83.0
+110 Lydia,110,—,Lydia,"April 19, 1870",Marseilles,A. Borrelly,PAD,86.0
+111 Ate,111,—,Ate,"August 14, 1870",Clinton,C. H. F. Peters,·,126.0
+112 Iphigenia,112,—,Iphigenia,"September 19, 1870",Clinton,C. H. F. Peters,·,70.0
+113 Amalthea,113,—,Amalthea,"March 12, 1871",Düsseldorf,R. Luther,·,50.0
+114 Kassandra,114,—,Kassandra,"July 23, 1871",Clinton,C. H. F. Peters,·,94.0
+115 Thyra,115,—,Thyra,"August 6, 1871",Ann Arbor,J. C. Watson,·,80.0
+116 Sirona,116,—,Sirona,"September 8, 1871",Clinton,C. H. F. Peters,·,72.0
+117 Lomia,117,—,Lomia,"September 12, 1871",Marseilles,A. Borrelly,·,209.0
+118 Peitho,118,—,Peitho,"March 15, 1872",Düsseldorf,R. Luther,·,40.0
+119 Althaea,119,—,Althaea,"April 3, 1872",Ann Arbor,J. C. Watson,·,57.0
+120 Lachesis,120,—,Lachesis,"April 10, 1872",Marseilles,A. Borrelly,·,155.0
+121 Hermione,121,—,Hermione,"May 12, 1872",Ann Arbor,J. C. Watson,CYB · moon,209.0
+122 Gerda,122,—,Gerda,"July 31, 1872",Clinton,C. H. F. Peters,·,71.0
+123 Brunhild,123,—,Brunhild,"July 31, 1872",Clinton,C. H. F. Peters,·,45.0
+124 Alkeste,124,—,Alkeste,"August 23, 1872",Clinton,C. H. F. Peters,·,89.0
+125 Liberatrix,125,—,Liberatrix,"September 11, 1872",Paris,P. M. Henry,·,48.0
+126 Velleda,126,—,Velleda,"November 5, 1872",Paris,P. P. Henry,·,45.0
+127 Johanna,127,—,Johanna,"November 5, 1872",Paris,P. M. Henry,·,122.0
+128 Nemesis,128,—,Nemesis,"November 25, 1872",Ann Arbor,J. C. Watson,·,163.0
+129 Antigone,129,—,Antigone,"February 5, 1873",Clinton,C. H. F. Peters,·,113.0
+130 Elektra,130,—,Elektra,"February 17, 1873",Clinton,C. H. F. Peters,moon,181.0
+131 Vala,131,—,Vala,"May 24, 1873",Clinton,C. H. F. Peters,·,31.0
+132 Aethra,132,—,Aethra,"June 13, 1873",Ann Arbor,J. C. Watson,·,43.0
+133 Cyrene,133,—,Cyrene,"August 16, 1873",Ann Arbor,J. C. Watson,·,72.0
+134 Sophrosyne,134,—,Sophrosyne,"September 27, 1873",Düsseldorf,R. Luther,·,108.0
+135 Hertha,135,—,Hertha,"February 18, 1874",Clinton,C. H. F. Peters,NYS,79.0
+136 Austria,136,—,Austria,"March 18, 1874",Pola,J. Palisa,·,37.0
+137 Meliboea,137,—,Meliboea,"April 21, 1874",Pula,J. Palisa,·,129.0
+138 Tolosa,138,—,Tolosa,"May 19, 1874",Toulouse,J. Perrotin,·,53.0
+139 Juewa,139,—,Juewa,"October 10, 1874",Beijing,J. C. Watson,·,151.0
+140 Siwa,140,—,Siwa,"October 13, 1874",Pola,J. Palisa,·,110.0
+141 Lumen,141,—,Lumen,"January 13, 1875",Paris,P. P. Henry,·,118.0
+142 Polana,142,—,Polana,"January 28, 1875",Pola,J. Palisa,NYS,55.0
+143 Adria,143,—,Adria,"February 23, 1875",Pula,J. Palisa,·,95.0
+144 Vibilia,144,—,Vibilia,"June 3, 1875",Clinton,C. H. F. Peters,·,142.0
+145 Adeona,145,—,Adeona,"June 3, 1875",Clinton,C. H. F. Peters,ADE,128.0
+146 Lucina,146,—,Lucina,"June 8, 1875",Marseilles,A. Borrelly,·,160.0
+147 Protogeneia,147,—,Protogeneia,"July 10, 1875",Vienna,L. Schulhof,·,133.0
+148 Gallia,148,—,Gallia,"August 7, 1875",Paris,P. M. Henry,GAL,98.0
+149 Medusa,149,—,Medusa,"September 21, 1875",Toulouse,J. Perrotin,·,24.0
+150 Nuwa,150,—,Nuwa,"October 18, 1875",Ann Arbor,J. C. Watson,·,119.0
+151 Abundantia,151,—,Abundantia,"November 1, 1875",Pola,J. Palisa,·,39.0
+152 Atala,152,—,Atala,"November 2, 1875",Paris,P. P. Henry,·,59.0
+153 Hilda,153,—,Hilda,"November 2, 1875",Pola,J. Palisa,HIL · 3:2,171.0
+154 Bertha,154,—,Bertha,"November 4, 1875",Paris,P. M. Henry,·,193.0
+155 Scylla,155,—,Scylla,"November 8, 1875",Pola,J. Palisa,·,40.0
+156 Xanthippe,156,—,Xanthippe,"November 22, 1875",Pula,J. Palisa,·,143.0
+157 Dejanira,157,—,Dejanira,"December 1, 1875",Marseilles,A. Borrelly,·,20.0
+158 Koronis,158,—,Koronis,"January 4, 1876",Berlin,V. Knorre,KOR,39.0
+159 Aemilia,159,—,Aemilia,"January 26, 1876",Paris,P. P. Henry,(159),125.0
+160 Una,160,—,Una,"February 20, 1876",Clinton,C. H. F. Peters,·,81.0
+161 Athor,161,—,Athor,"April 19, 1876",Ann Arbor,J. C. Watson,·,41.0
+162 Laurentia,162,—,Laurentia,"April 21, 1876",Paris,P. M. Henry,·,97.0
+163 Erigone,163,—,Erigone,"April 26, 1876",Toulouse,J. Perrotin,ERI,82.0
+164 Eva,164,—,Eva,"July 12, 1876",Paris,P. P. Henry,·,100.0
+165 Loreley,165,—,Loreley,"August 9, 1876",Clinton,C. H. F. Peters,·,180.0
+166 Rhodope,166,—,Rhodope,"August 15, 1876",Clinton,C. H. F. Peters,ADE,52.0
+167 Urda,167,—,Urda,"August 28, 1876",Clinton,C. H. F. Peters,KOR,40.0
+168 Sibylla,168,—,Sibylla,"September 28, 1876",Ann Arbor,J. C. Watson,CYB,145.0
+169 Zelia,169,—,Zelia,"September 28, 1876",Paris,P. M. Henry,·,38.0
+170 Maria,170,—,Maria,"January 10, 1877",Toulouse,J. Perrotin,MAR,33.0
+171 Ophelia,171,—,Ophelia,"January 13, 1877",Marseilles,A. Borrelly,THM,131.0
+172 Baucis,172,—,Baucis,"February 5, 1877",Marseilles,A. Borrelly,·,62.0
+173 Ino,173,—,Ino,"August 1, 1877",Marseilles,A. Borrelly,EUN,126.0
+174 Phaedra,174,—,Phaedra,"September 2, 1877",Ann Arbor,J. C. Watson,·,65.0
+175 Andromache,175,—,Andromache,"October 1, 1877",Ann Arbor,J. C. Watson,·,95.0
+176 Iduna,176,—,Iduna,"October 14, 1877",Clinton,C. H. F. Peters,·,107.0
+177 Irma,177,—,Irma,"November 5, 1877",Paris,P. P. Henry,·,69.0
+178 Belisana,178,—,Belisana,"November 6, 1877",Pola,J. Palisa,·,36.0
+179 Klytaemnestra,179,—,Klytaemnestra,"November 11, 1877",Ann Arbor,J. C. Watson,TEL,70.0
+180 Garumna,180,—,Garumna,"January 29, 1878",Toulouse,J. Perrotin,·,23.0
+181 Eucharis,181,—,Eucharis,"February 2, 1878",Marseilles,P. Cottenot,·,115.0
+182 Elsa,182,—,Elsa,"February 7, 1878",Pola,J. Palisa,·,40.0
+183 Istria,183,—,Istria,"February 8, 1878",Pula,J. Palisa,·,33.0
+184 Dejopeja,184,—,Dejopeja,"February 28, 1878",Pula,J. Palisa,·,62.0
+185 Eunike,185,—,Eunike,"March 1, 1878",Clinton,C. H. F. Peters,·,160.0
+186 Celuta,186,—,Celuta,"April 6, 1878",Paris,P. M. Henry,PHO,50.0
+187 Lamberta,187,—,Lamberta,"April 11, 1878",Marseilles,J. Coggia,·,147.0
+188 Menippe,188,—,Menippe,"June 18, 1878",Clinton,C. H. F. Peters,·,36.0
+189 Phthia,189,—,Phthia,"September 9, 1878",Clinton,C. H. F. Peters,·,38.0
+190 Ismene,190,—,Ismene,"September 22, 1878",Clinton,C. H. F. Peters,3:2,159.0
+191 Kolga,191,—,Kolga,"September 30, 1878",Clinton,C. H. F. Peters,·,95.0
+192 Nausikaa,192,—,Nausikaa,"February 17, 1879",Pola,J. Palisa,·,99.0
+193 Ambrosia,193,—,Ambrosia,"February 28, 1879",Marseilles,J. Coggia,·,26.0
+194 Prokne,194,—,Prokne,"March 21, 1879",Clinton,C. H. F. Peters,(194),162.0
+195 Eurykleia,195,—,Eurykleia,"April 19, 1879",Pola,J. Palisa,·,93.0
+196 Philomela,196,—,Philomela,"May 14, 1879",Clinton,C. H. F. Peters,·,145.0
+197 Arete,197,—,Arete,"May 21, 1879",Pola,J. Palisa,·,32.0
+198 Ampella,198,—,Ampella,"June 13, 1879",Marseilles,A. Borrelly,·,54.0
+199 Byblis,199,—,Byblis,"July 9, 1879",Clinton,C. H. F. Peters,·,76.0
+200 Dynamene,200,—,Dynamene,"July 27, 1879",Clinton,C. H. F. Peters,·,128.0
+201 Penelope,201,—,Penelope,"August 7, 1879",Pola,J. Palisa,·,86.0
+202 Chryseïs,202,—,Chryseïs,"September 11, 1879",Clinton,C. H. F. Peters,·,86.0
+203 Pompeja,203,—,Pompeja,"September 25, 1879",Clinton,C. H. F. Peters,·,125.0
+204 Kallisto,204,—,Kallisto,"October 8, 1879",Pula,J. Palisa,·,49.0
+205 Martha,205,—,Martha,"October 13, 1879",Pula,J. Palisa,·,77.0
+206 Hersilia,206,—,Hersilia,"October 13, 1879",Clinton,C. H. F. Peters,·,113.0
+207 Hedda,207,—,Hedda,"October 17, 1879",Pula,J. Palisa,·,58.0
+208 Lacrimosa,208,—,Lacrimosa,"October 21, 1879",Pula,J. Palisa,KOR,40.0
+209 Dido,209,—,Dido,"October 22, 1879",Clinton,C. H. F. Peters,·,179.0
+210 Isabella,210,—,Isabella,"November 12, 1879",Pula,J. Palisa,·,87.0
+211 Isolda,211,—,Isolda,"December 10, 1879",Pula,J. Palisa,·,141.0
+212 Medea,212,—,Medea,"February 6, 1880",Pula,J. Palisa,·,136.0
+213 Lilaea,213,—,Lilaea,"February 16, 1880",Clinton,C. H. F. Peters,·,82.0
+214 Aschera,214,—,Aschera,"February 29, 1880",Pula,J. Palisa,·,25.0
+215 Oenone,215,—,Oenone,"April 7, 1880",Berlin,V. Knorre,·,35.0
+216 Kleopatra,216,—,Kleopatra,"April 10, 1880",Pula,J. Palisa,moon,122.0
+217 Eudora,217,—,Eudora,"August 30, 1880",Marseilles,J. Coggia,·,65.0
+218 Bianca,218,—,Bianca,"September 4, 1880",Pula,J. Palisa,·,61.0
+219 Thusnelda,219,—,Thusnelda,"September 30, 1880",Pula,J. Palisa,·,38.0
+220 Stephania,220,—,Stephania,"May 19, 1881",Vienna,J. Palisa,·,32.0
+221 Eos,221,—,Eos,"January 18, 1882",Vienna,J. Palisa,EOS,95.0
+222 Lucia,222,—,Lucia,"February 9, 1882",Vienna,J. Palisa,THM ·,55.0
+223 Rosa,223,—,Rosa,"March 9, 1882",Vienna,J. Palisa,THM,80.0
+224 Oceana,224,—,Oceana,"March 30, 1882",Vienna,J. Palisa,·,58.0
+225 Henrietta,225,—,Henrietta,"April 19, 1882",Vienna,J. Palisa,Tj (2.99) · CYB,96.0
+226 Weringia,226,—,Weringia,"July 19, 1882",Vienna,J. Palisa,·,31.0
+227 Philosophia,227,—,Philosophia,"August 12, 1882",Paris,P. P. Henry,·,124.0
+228 Agathe,228,—,Agathe,"August 19, 1882",Vienna,J. Palisa,·,9.3
+229 Adelinda,229,—,Adelinda,"August 22, 1882",Vienna,J. Palisa,CYB,106.0
+230 Athamantis,230,—,Athamantis,"September 3, 1882",Bothkamp,K. de Ball,·,111.0
+231 Vindobona,231,—,Vindobona,"September 10, 1882",Vienna,J. Palisa,·,74.0
+232 Russia,232,—,Russia,"January 31, 1883",Vienna,J. Palisa,·,55.0
+233 Asterope,233,—,Asterope,"May 11, 1883",Marseilles,A. Borrelly,·,100.0
+234 Barbara,234,—,Barbara,"August 12, 1883",Clinton,C. H. F. Peters,PHO,45.0
+235 Carolina,235,—,Carolina,"November 28, 1883",Vienna,J. Palisa,·,58.0
+236 Honoria,236,—,Honoria,"April 26, 1884",Vienna,J. Palisa,·,78.0
+237 Coelestina,237,—,Coelestina,"June 27, 1884",Vienna,J. Palisa,·,41.0
+238 Hypatia,238,—,Hypatia,"July 1, 1884",Berlin,V. Knorre,·,156.0
+239 Adrastea,239,—,Adrastea,"August 18, 1884",Vienna,J. Palisa,·,38.0
+240 Vanadis,240,—,Vanadis,"August 27, 1884",Marseilles,A. Borrelly,·,88.0
+241 Germania,241,—,Germania,"September 12, 1884",Düsseldorf,R. Luther,·,169.0
+242 Kriemhild,242,—,Kriemhild,"September 22, 1884",Vienna,J. Palisa,·,41.0
+243 Ida,243,—,Ida,"September 29, 1884",Vienna,J. Palisa,KOR · moon,32.0
+244 Sita,244,—,Sita,"October 14, 1884",Vienna,J. Palisa,slow,11.0
+245 Vera,245,—,Vera,"February 6, 1885",Madras,N. R. Pogson,·,76.0
+246 Asporina,246,—,Asporina,"March 6, 1885",Marseilles,A. Borrelly,·,51.0
+247 Eukrate,247,—,Eukrate,"March 14, 1885",Düsseldorf,R. Luther,·,131.0
+248 Lameia,248,—,Lameia,"June 5, 1885",Vienna,J. Palisa,·,50.0
+249 Ilse,249,—,Ilse,"August 16, 1885",Clinton,C. H. F. Peters,·,35.0
+250 Bettina,250,—,Bettina,"September 3, 1885",Vienna,J. Palisa,·,121.0
+251 Sophia,251,—,Sophia,"October 4, 1885",Vienna,J. Palisa,EOS,27.0
+252 Clementina,252,—,Clementina,"October 11, 1885",Nice,J. Perrotin,·,65.0
+253 Mathilde,253,—,Mathilde,"November 12, 1885",Vienna,J. Palisa,slow,53.0
+254 Augusta,254,—,Augusta,"March 31, 1886",Vienna,J. Palisa,(254),12.0
+255 Oppavia,255,—,Oppavia,"March 31, 1886",Vienna,J. Palisa,GEF ·,57.0
+256 Walpurga,256,—,Walpurga,"April 3, 1886",Vienna,J. Palisa,·,67.0
+257 Silesia,257,—,Silesia,"April 5, 1886",Vienna,J. Palisa,·,73.0
+258 Tyche,258,—,Tyche,"May 4, 1886",Düsseldorf,R. Luther,EUN,65.0
+259 Aletheia,259,—,Aletheia,"June 28, 1886",Clinton,C. H. F. Peters,·,174.0
+260 Huberta,260,—,Huberta,"October 3, 1886",Vienna,J. Palisa,(260) · CYB,102.0
+261 Prymno,261,—,Prymno,"October 31, 1886",Clinton,C. H. F. Peters,·,50.0
+262 Valda,262,—,Valda,"November 3, 1886",Vienna,J. Palisa,·,15.0
+263 Dresda,263,—,Dresda,"November 3, 1886",Vienna,J. Palisa,KOR,24.0
+264 Libussa,264,—,Libussa,"December 22, 1886",Clinton,C. H. F. Peters,·,63.0
+265 Anna,265,—,Anna,"February 25, 1887",Vienna,J. Palisa,·,23.0
+266 Aline,266,—,Aline,"May 17, 1887",Vienna,J. Palisa,·,109.0
+267 Tirza,267,—,Tirza,"May 27, 1887",Nice,A. Charlois,·,56.0
+268 Adorea,268,—,Adorea,"June 8, 1887",Marseilles,A. Borrelly,THM,145.0
+269 Justitia,269,—,Justitia,"September 21, 1887",Vienna,J. Palisa,·,51.0
+270 Anahita,270,—,Anahita,"October 8, 1887",Clinton,C. H. F. Peters,·,51.0
+271 Penthesilea,271,—,Penthesilea,"October 13, 1887",Berlin,V. Knorre,·,66.0
+272 Antonia,272,—,Antonia,"February 4, 1888",Nice,A. Charlois,·,27.0
+273 Atropos,273,—,Atropos,"March 8, 1888",Vienna,J. Palisa,PHO,30.0
+274 Philagoria,274,—,Philagoria,"April 3, 1888",Vienna,J. Palisa,·,27.0
+275 Sapientia,275,—,Sapientia,"April 15, 1888",Vienna,J. Palisa,·,103.0
+276 Adelheid,276,—,Adelheid,"April 17, 1888",Vienna,J. Palisa,·,115.0
+277 Elvira,277,—,Elvira,"May 3, 1888",Nice,A. Charlois,KOR,30.0
+278 Paulina,278,—,Paulina,"May 16, 1888",Vienna,J. Palisa,·,33.0
+279 Thule,279,—,Thule,"October 25, 1888",Vienna,J. Palisa,4:3,127.0
+280 Philia,280,—,Philia,"October 29, 1888",Vienna,J. Palisa,·,46.0
+281 Lucretia,281,—,Lucretia,"October 31, 1888",Vienna,J. Palisa,·,11.0
+282 Clorinde,282,—,Clorinde,"January 28, 1889",Nice,A. Charlois,·,39.0
+283 Emma,283,—,Emma,"February 8, 1889",Nice,A. Charlois,EMA · moon,132.0
+284 Amalia,284,—,Amalia,"May 29, 1889",Nice,A. Charlois,·,53.0
+285 Regina,285,—,Regina,"August 3, 1889",Nice,A. Charlois,·,47.0
+286 Iclea,286,—,Iclea,"August 3, 1889",Vienna,J. Palisa,·,94.0
+287 Nephthys,287,—,Nephthys,"August 25, 1889",Clinton,C. H. F. Peters,·,60.0
+288 Glauke,288,—,Glauke,"February 20, 1890",Düsseldorf,R. Luther,slow,29.0
+289 Nenetta,289,—,Nenetta,"March 10, 1890",Nice,A. Charlois,·,38.0
+290 Bruna,290,—,Bruna,"March 20, 1890",Vienna,J. Palisa,PHO,9.8
+291 Alice,291,—,Alice,"April 25, 1890",Vienna,J. Palisa,·,10.0
+292 Ludovica,292,—,Ludovica,"April 25, 1890",Vienna,J. Palisa,·,31.0
+293 Brasilia,293,—,Brasilia,"May 20, 1890",Nice,A. Charlois,BRA,57.0
+294 Felicia,294,—,Felicia,"July 15, 1890",Nice,A. Charlois,·,52.0
+295 Theresia,295,—,Theresia,"August 17, 1890",Vienna,J. Palisa,·,28.0
+296 Phaëtusa,296,—,Phaëtusa,"August 19, 1890",Nice,A. Charlois,·,8.2
+297 Caecilia,297,—,Caecilia,"September 9, 1890",Nice,A. Charlois,·,39.0
+298 Baptistina,298,—,Baptistina,"September 9, 1890",Nice,A. Charlois,BAP,21.0
+299 Thora,299,—,Thora,"October 6, 1890",Vienna,J. Palisa,slow,16.0
+300 Geraldina,300,—,Geraldina,"October 3, 1890",Nice,A. Charlois,·,67.0
+301 Bavaria,301,—,Bavaria,"November 16, 1890",Vienna,J. Palisa,·,53.0
+302 Clarissa,302,—,Clarissa,"November 14, 1890",Nice,A. Charlois,CLA,39.0
+303 Josephina,303,—,Josephina,"February 12, 1891",Rome,E. Millosevich,·,125.0
+304 Olga,304,—,Olga,"February 14, 1891",Vienna,J. Palisa,PHO,66.0
+305 Gordonia,305,—,Gordonia,"February 16, 1891",Nice,A. Charlois,·,48.0
+306 Unitas,306,—,Unitas,"March 1, 1891",Rome,E. Millosevich,·,47.0
+307 Nike,307,—,Nike,"March 5, 1891",Nice,A. Charlois,·,61.0
+308 Polyxo,308,—,Polyxo,"March 31, 1891",Marseilles,A. Borrelly,·,129.0
+309 Fraternitas,309,—,Fraternitas,"April 6, 1891",Vienna,J. Palisa,·,41.0
+310 Margarita,310,—,Margarita,"May 16, 1891",Nice,A. Charlois,·,34.0
+311 Claudia,311,—,Claudia,"June 11, 1891",Nice,A. Charlois,KOR,26.0
+312 Pierretta,312,—,Pierretta,"August 28, 1891",Nice,A. Charlois,·,46.0
+313 Chaldaea,313,—,Chaldaea,"August 30, 1891",Vienna,J. Palisa,·,71.0
+314 Rosalia,314,—,Rosalia,"September 1, 1891",Nice,A. Charlois,·,61.0
+315 Constantia,315,—,Constantia,"September 4, 1891",Vienna,J. Palisa,·,6.5
+316 Goberta,316,—,Goberta,"September 8, 1891",Nice,A. Charlois,THM,56.0
+317 Roxane,317,—,Roxane,"September 11, 1891",Nice,A. Charlois,moon,19.0
+318 Magdalena,318,—,Magdalena,"September 24, 1891",Nice,A. Charlois,·,85.0
+319 Leona,319,—,Leona,"October 8, 1891",Nice,A. Charlois,CYB · slow,50.0
+320 Katharina,320,—,Katharina,"October 11, 1891",Vienna,J. Palisa,EOS,23.0
+321 Florentina,321,—,Florentina,"October 15, 1891",Vienna,J. Palisa,KOR ·,28.0
+322 Phaeo,322,—,Phaeo,"November 27, 1891",Marseilles,A. Borrelly,·,70.0
+323 Brucia,323,—,Brucia,"December 22, 1891",Heidelberg,M. F. Wolf,PHO,28.0
+324 Bamberga,324,—,Bamberga,"February 25, 1892",Vienna,J. Palisa,·,221.0
+325 Heidelberga,325,—,Heidelberga,"March 4, 1892",Heidelberg,M. F. Wolf,·,76.0
+326 Tamara,326,—,Tamara,"March 19, 1892",Vienna,J. Palisa,PHO,93.0
+327 Columbia,327,—,Columbia,"March 22, 1892",Nice,A. Charlois,·,30.0
+328 Gudrun,328,—,Gudrun,"March 18, 1892",Heidelberg,M. F. Wolf,·,146.0
+329 Svea,329,—,Svea,"March 21, 1892",Heidelberg,M. F. Wolf,PHO,81.0
+330 Adalberta,330,A910 CB,Adalberta,"February 2, 1910",Heidelberg,M. F. Wolf,·,9.1
+331 Etheridgea,331,—,Etheridgea,"April 1, 1892",Nice,A. Charlois,·,75.0
+332 Siri,332,—,Siri,"March 19, 1892",Heidelberg,M. F. Wolf,·,40.0
+333 Badenia,333,1892 A,Badenia,"August 22, 1892",Heidelberg,M. F. Wolf,·,72.0
+334 Chicago,334,1892 L,Chicago,"August 23, 1892",Heidelberg,M. F. Wolf,3:2,199.0
+335 Roberta,335,1892 C,Roberta,"September 1, 1892",Heidelberg,A. Staus,·,97.0
+336 Lacadiera,336,1892 D,Lacadiera,"September 19, 1892",Nice,A. Charlois,·,63.0
+337 Devosa,337,1892 E,Devosa,"September 22, 1892",Nice,A. Charlois,·,65.0
+338 Budrosa,338,1892 F,Budrosa,"September 25, 1892",Nice,A. Charlois,·,51.0
+339 Dorothea,339,1892 G,Dorothea,"September 25, 1892",Heidelberg,M. F. Wolf,EOS,44.0
+340 Eduarda,340,1892 H,Eduarda,"September 25, 1892",Heidelberg,M. F. Wolf,·,28.0
+341 California,341,1892 J,California,"September 25, 1892",Heidelberg,M. F. Wolf,slow,16.0
+342 Endymion,342,1892 K,Endymion,"October 17, 1892",Heidelberg,M. F. Wolf,·,64.0
+343 Ostara,343,1892 N,Ostara,"November 15, 1892",Heidelberg,M. F. Wolf,slow,18.0
+344 Desiderata,344,1892 M,Desiderata,"November 15, 1892",Nice,A. Charlois,·,124.0
+345 Tercidina,345,1892 O,Tercidina,"November 23, 1892",Nice,A. Charlois,·,90.0
+346 Hermentaria,346,1892 P,Hermentaria,"November 25, 1892",Nice,A. Charlois,·,86.0
+347 Pariana,347,1892 Q,Pariana,"November 28, 1892",Nice,A. Charlois,·,49.0
+348 May,348,1892 R,May,"November 28, 1892",Nice,A. Charlois,·,83.0
+349 Dembowska,349,1892 T,Dembowska,"December 9, 1892",Nice,A. Charlois,·,140.0
+350 Ornamenta,350,1892 U,Ornamenta,"December 14, 1892",Nice,A. Charlois,·,129.0
+351 Yrsa,351,1892 V,Yrsa,"December 16, 1892",Heidelberg,M. F. Wolf,·,40.0
+352 Gisela,352,1893 B,Gisela,"January 12, 1893",Heidelberg,M. F. Wolf,·,27.0
+353 Ruperto-Carola,353,1893 F,Ruperto-Carola,"January 16, 1893",Heidelberg,M. F. Wolf,·,14.0
+354 Eleonora,354,1893 A,Eleonora,"January 17, 1893",Nice,A. Charlois,·,149.0
+355 Gabriella,355,1893 E,Gabriella,"January 20, 1893",Nice,A. Charlois,(5),24.0
+356 Liguria,356,1893 G,Liguria,"January 21, 1893",Nice,A. Charlois,·,146.0
+357 Ninina,357,1893 J,Ninina,"February 11, 1893",Nice,A. Charlois,·,124.0
+358 Apollonia,358,1893 K,Apollonia,"March 8, 1893",Nice,A. Charlois,·,90.0
+359 Georgia,359,1893 M,Georgia,"March 10, 1893",Nice,A. Charlois,·,44.0
+360 Carlova,360,1893 N,Carlova,"March 11, 1893",Nice,A. Charlois,·,129.0
+361 Bononia,361,1893 P,Bononia,"March 11, 1893",Nice,A. Charlois,Tj (2.98) · 3:2,154.0
+362 Havnia,362,1893 R,Havnia,"March 12, 1893",Nice,A. Charlois,·,98.0
+363 Padua,363,1893 S,Padua,"March 17, 1893",Nice,A. Charlois,PAD,97.0
+364 Isara,364,1893 T,Isara,"March 19, 1893",Nice,A. Charlois,·,26.0
+365 Corduba,365,1893 V,Corduba,"March 21, 1893",Nice,A. Charlois,·,87.0
+366 Vincentina,366,1893 W,Vincentina,"March 21, 1893",Nice,A. Charlois,·,86.0
+367 Amicitia,367,1893 AA,Amicitia,"May 19, 1893",Nice,A. Charlois,·,21.0
+368 Haidea,368,1893 AB,Haidea,"May 19, 1893",Nice,A. Charlois,·,69.0
+369 Aëria,369,1893 AE,Aëria,"July 4, 1893",Marseilles,A. Borrelly,·,74.0
+370 Modestia,370,1893 AC,Modestia,"July 14, 1893",Nice,A. Charlois,·,38.0
+371 Bohemia,371,1893 AD,Bohemia,"July 16, 1893",Nice,A. Charlois,·,53.0
+372 Palma,372,1893 AH,Palma,"August 19, 1893",Nice,A. Charlois,·,174.0
+373 Melusina,373,1893 AJ,Melusina,"September 15, 1893",Nice,A. Charlois,·,99.0
+374 Burgundia,374,1893 AK,Burgundia,"September 18, 1893",Nice,A. Charlois,·,45.0
+375 Ursula,375,1893 AL,Ursula,"September 18, 1893",Nice,A. Charlois,URS,216.0
+376 Geometria,376,1893 AM,Geometria,"September 18, 1893",Nice,A. Charlois,·,35.0
+377 Campania,377,1893 AN,Campania,"September 20, 1893",Nice,A. Charlois,·,90.0
+378 Holmia,378,1893 AP,Holmia,"December 6, 1893",Nice,A. Charlois,·,28.0
+379 Huenna,379,1894 AQ,Huenna,"January 8, 1894",Nice,A. Charlois,THM · moon,85.0
+380 Fiducia,380,1894 AR,Fiducia,"January 8, 1894",Nice,A. Charlois,·,68.0
+381 Myrrha,381,1894 AS,Myrrha,"January 10, 1894",Nice,A. Charlois,·,128.0
+382 Dodona,382,1894 AT,Dodona,"January 29, 1894",Nice,A. Charlois,·,65.0
+383 Janina,383,1894 AU,Janina,"January 29, 1894",Nice,A. Charlois,THM ·,43.0
+384 Burdigala,384,1894 AV,Burdigala,"February 11, 1894",Bordeaux,F. Courty,slow,34.0
+385 Ilmatar,385,1894 AX,Ilmatar,"March 1, 1894",Heidelberg,M. F. Wolf,·,86.0
+386 Siegena,386,1894 AY,Siegena,"March 1, 1894",Heidelberg,M. F. Wolf,·,165.0
+387 Aquitania,387,1894 AZ,Aquitania,"March 5, 1894",Bordeaux,F. Courty,·,101.0
+388 Charybdis,388,1894 BA,Charybdis,"March 7, 1894",Nice,A. Charlois,·,126.0
+389 Industria,389,1894 BB,Industria,"March 8, 1894",Nice,A. Charlois,·,74.0
+390 Alma,390,1894 BC,Alma,"March 24, 1894",Paris,G. Bigourdan,·,26.0
+391 Ingeborg,391,1894 BE,Ingeborg,"November 1, 1894",Heidelberg,M. F. Wolf,·,16.0
+392 Wilhelmina,392,1894 BF,Wilhelmina,"November 4, 1894",Heidelberg,M. F. Wolf,·,61.0
+393 Lampetia,393,1894 BG,Lampetia,"November 4, 1894",Heidelberg,M. F. Wolf,·,116.0
+394 Arduina,394,1894 BH,Arduina,"November 19, 1894",Marseilles,A. Borrelly,·,30.0
+395 Delia,395,1894 BK,Delia,"November 30, 1894",Nice,A. Charlois,·,44.0
+396 Aeolia,396,1894 BL,Aeolia,"December 1, 1894",Nice,A. Charlois,AEO,39.0
+397 Vienna,397,1894 BM,Vienna,"December 19, 1894",Nice,A. Charlois,·,49.0
+398 Admete,398,1894 BN,Admete,"December 28, 1894",Nice,A. Charlois,·,50.0
+399 Persephone,399,1895 BP,Persephone,"February 23, 1895",Heidelberg,M. F. Wolf,·,40.0
+400 Ducrosa,400,1895 BU,Ducrosa,"March 15, 1895",Nice,A. Charlois,·,36.0
+401 Ottilia,401,1895 BT,Ottilia,"March 16, 1895",Heidelberg,M. F. Wolf,CYB,88.0
+402 Chloë,402,1895 BW,Chloë,"March 21, 1895",Nice,A. Charlois,·,55.0
+403 Cyane,403,1895 BX,Cyane,"May 18, 1895",Nice,A. Charlois,·,54.0
+404 Arsinoë,404,1895 BY,Arsinoë,"June 20, 1895",Nice,A. Charlois,·,95.0
+405 Thia,405,1895 BZ,Thia,"July 23, 1895",Nice,A. Charlois,·,109.0
+406 Erna,406,1895 CB,Erna,"August 22, 1895",Nice,A. Charlois,·,46.0
+407 Arachne,407,1895 CC,Arachne,"October 13, 1895",Heidelberg,M. F. Wolf,·,95.0
+408 Fama,408,1895 CD,Fama,"October 13, 1895",Heidelberg,M. F. Wolf,slow,36.0
+409 Aspasia,409,1895 CE,Aspasia,"December 9, 1895",Nice,A. Charlois,·,171.0
+410 Chloris,410,1896 CH,Chloris,"January 7, 1896",Nice,A. Charlois,CLO,119.0
+411 Xanthe,411,1896 CJ,Xanthe,"January 7, 1896",Nice,A. Charlois,·,77.0
+412 Elisabetha,412,1896 CK,Elisabetha,"January 7, 1896",Heidelberg,M. F. Wolf,·,96.0
+413 Edburga,413,1896 CL,Edburga,"January 7, 1896",Heidelberg,M. F. Wolf,·,34.0
+414 Liriope,414,1896 CN,Liriope,"January 16, 1896",Nice,A. Charlois,CYB,89.0
+415 Palatia,415,1896 CO,Palatia,"February 7, 1896",Heidelberg,M. F. Wolf,·,84.0
+416 Vaticana,416,1896 CS,Vaticana,"May 4, 1896",Nice,A. Charlois,·,85.0
+417 Suevia,417,1896 CT,Suevia,"May 6, 1896",Heidelberg,M. F. Wolf,·,55.0
+418 Alemannia,418,1896 CV,Alemannia,"September 7, 1896",Heidelberg,M. F. Wolf,·,40.0
+419 Aurelia,419,1896 CW,Aurelia,"September 7, 1896",Heidelberg,M. F. Wolf,·,149.0
+420 Bertholda,420,1896 CY,Bertholda,"September 7, 1896",Heidelberg,M. F. Wolf,CYB,139.0
+421 Zähringia,421,1896 CZ,Zähringia,"September 7, 1896",Heidelberg,M. F. Wolf,·,14.0
+422 Berolina,422,1896 DA,Berolina,"October 8, 1896",Urania,G. Witt,·,11.0
+423 Diotima,423,1896 DB,Diotima,"December 7, 1896",Nice,A. Charlois,EOS,176.0
+424 Gratia,424,1896 DF,Gratia,"December 31, 1896",Nice,A. Charlois,·,103.0
+425 Cornelia,425,1896 DC,Cornelia,"December 28, 1896",Nice,A. Charlois,·,68.0
+426 Hippo,426,1897 DH,Hippo,"August 25, 1897",Nice,A. Charlois,·,138.0
+427 Galene,427,1897 DJ,Galene,"August 27, 1897",Nice,A. Charlois,·,32.0
+428 Monachia,428,1897 DK,Monachia,"November 18, 1897",Munich,W. Villiger,·,20.0
+429 Lotis,429,1897 DL,Lotis,"November 23, 1897",Nice,A. Charlois,·,70.0
+430 Hybris,430,1897 DM,Hybris,"December 18, 1897",Nice,A. Charlois,·,32.0
+431 Nephele,431,1897 DN,Nephele,"December 18, 1897",Nice,A. Charlois,THM,102.0
+432 Pythia,432,1897 DO,Pythia,"December 18, 1897",Nice,A. Charlois,PHO,47.0
+433 Eros,433,1898 DQ,Eros,"August 13, 1898",Urania,G. Witt,AMO +1 km(0.62 mi),17.0
+434 Hungaria,434,1898 DR,Hungaria,"September 11, 1898",Heidelberg,M. F. Wolf,H,8.9
+435 Ella,435,1898 DS,Ella,"September 11, 1898",Heidelberg,"M. F. Wolf, A. Schwassmann",·,35.0
+436 Patricia,436,1898 DT,Patricia,"September 13, 1898",Heidelberg,"M. F. Wolf, A. Schwassmann",·,59.0
+437 Rhodia,437,1898 DP,Rhodia,"July 16, 1898",Nice,A. Charlois,slow,13.0
+438 Zeuxo,438,1898 DU,Zeuxo,"November 8, 1898",Nice,A. Charlois,·,59.0
+439 Ohio,439,1898 EB,Ohio,"October 13, 1898",Mount Hamilton,E. F. Coddington,·,70.0
+440 Theodora,440,1898 EC,Theodora,"October 13, 1898",Mount Hamilton,E. F. Coddington,·,14.0
+441 Bathilde,441,1898 ED,Bathilde,"December 8, 1898",Nice,A. Charlois,·,65.0
+442 Eichsfeldia,442,1899 EE,Eichsfeldia,"February 15, 1899",Heidelberg,"M. F. Wolf, A. Schwassmann",·,62.0
+443 Photographica,443,1899 EF,Photographica,"February 17, 1899",Heidelberg,"M. F. Wolf, A. Schwassmann",·,26.0
+444 Gyptis,444,1899 EL,Gyptis,"March 31, 1899",Marseilles,J. Coggia,·,159.0
+445 Edna,445,1899 EX,Edna,"October 2, 1899",Mount Hamilton,E. F. Coddington,·,88.0
+446 Aeternitas,446,1899 ER,Aeternitas,"October 27, 1899",Heidelberg,"M. F. Wolf, A. Schwassmann",·,54.0
+447 Valentine,447,1899 ES,Valentine,"October 27, 1899",Heidelberg,"M. F. Wolf, A. Schwassmann",·,85.0
+448 Natalie,448,1899 ET,Natalie,"October 27, 1899",Heidelberg,"M. F. Wolf, A. Schwassmann",·,51.0
+449 Hamburga,449,1899 EU,Hamburga,"October 31, 1899",Heidelberg,"M. F. Wolf, A. Schwassmann",·,86.0
+450 Brigitta,450,1899 EV,Brigitta,"October 10, 1899",Heidelberg,"M. F. Wolf, A. Schwassmann",EOS,37.0
+451 Patientia,451,1899 EY,Patientia,"December 4, 1899",Nice,A. Charlois,·,254.0
+452 Hamiltonia,452,1899 FD,Hamiltonia,"December 6, 1899",Mount Hamilton,J. E. Keeler,KOR,12.0
+453 Tea,453,1900 FA,Tea,"February 22, 1900",Nice,A. Charlois,·,24.0
+454 Mathesis,454,1900 FC,Mathesis,"March 28, 1900",Heidelberg,A. Schwassmann,·,82.0
+455 Bruchsalia,455,1900 FG,Bruchsalia,"May 22, 1900",Heidelberg,"M. F. Wolf, A. Schwassmann",·,89.0
+456 Abnoba,456,1900 FH,Abnoba,"June 4, 1900",Heidelberg,"M. F. Wolf, A. Schwassmann",·,38.0
+457 Alleghenia,457,1900 FJ,Alleghenia,"September 15, 1900",Heidelberg,"M. F. Wolf, A. Schwassmann",·,19.0
+458 Hercynia,458,1900 FK,Hercynia,"September 21, 1900",Heidelberg,"M. F. Wolf, A. Schwassmann",·,37.0
+459 Signe,459,1900 FM,Signe,"October 22, 1900",Heidelberg,M. F. Wolf,·,26.0
+460 Scania,460,1900 FN,Scania,"October 22, 1900",Heidelberg,M. F. Wolf,slow,20.0
+461 Saskia,461,1900 FP,Saskia,"October 22, 1900",Heidelberg,M. F. Wolf,THM,44.0
+462 Eriphyla,462,1900 FQ,Eriphyla,"October 22, 1900",Heidelberg,M. F. Wolf,KOR,34.0
+463 Lola,463,1900 FS,Lola,"October 31, 1900",Heidelberg,M. F. Wolf,PHO,21.0
+464 Megaira,464,1901 FV,Megaira,"January 9, 1901",Heidelberg,M. F. Wolf,·,77.0
+465 Alekto,465,1901 FW,Alekto,"January 13, 1901",Heidelberg,M. F. Wolf,·,73.0
+466 Tisiphone,466,1901 FX,Tisiphone,"January 17, 1901",Heidelberg,"M. F. Wolf, L. Carnera",CYB,95.0
+467 Laura,467,1901 FY,Laura,"January 9, 1901",Heidelberg,M. F. Wolf,·,39.0
+468 Lina,468,1901 FZ,Lina,"January 18, 1901",Heidelberg,M. F. Wolf,THM,60.0
+469 Argentina,469,1901 GE,Argentina,"February 20, 1901",Heidelberg,L. Carnera,·,134.0
+470 Kilia,470,1901 GJ,Kilia,"April 21, 1901",Heidelberg,L. Carnera,slow,28.0
+471 Papagena,471,1901 GN,Papagena,"June 7, 1901",Heidelberg,M. F. Wolf,·,148.0
+472 Roma,472,1901 GP,Roma,"July 11, 1901",Heidelberg,L. Carnera,MAR,50.0
+473 Nolli,473,1901 GC,Nolli,"February 13, 1901",Heidelberg,M. F. Wolf,EUN,12.0
+474 Prudentia,474,1901 GD,Prudentia,"February 13, 1901",Heidelberg,M. F. Wolf,·,41.0
+475 Ocllo,475,1901 HN,Ocllo,"August 14, 1901",Arequipa,D. Stewart,·,18.0
+476 Hedwig,476,1901 GQ,Hedwig,"August 17, 1901",Heidelberg,L. Carnera,·,138.0
+477 Italia,477,1901 GR,Italia,"August 23, 1901",Heidelberg,L. Carnera,·,23.0
+478 Tergeste,478,1901 GU,Tergeste,"September 21, 1901",Heidelberg,L. Carnera,·,81.0
+479 Caprera,479,1901 HJ,Caprera,"November 12, 1901",Heidelberg,L. Carnera,·,60.0
+480 Hansa,480,1901 GL,Hansa,"May 21, 1901",Heidelberg,"M. F. Wolf, L. Carnera",HNS,56.0
+481 Emita,481,1902 HP,Emita,"February 12, 1902",Heidelberg,L. Carnera,·,102.0
+482 Petrina,482,1902 HT,Petrina,"March 3, 1902",Heidelberg,M. F. Wolf,·,46.0
+483 Seppina,483,1902 HU,Seppina,"March 4, 1902",Heidelberg,M. F. Wolf,CYB,67.0
+484 Pittsburghia,484,1902 HX,Pittsburghia,"April 29, 1902",Heidelberg,M. F. Wolf,·,30.0
+485 Genua,485,1902 HZ,Genua,"May 7, 1902",Heidelberg,L. Carnera,·,64.0
+486 Cremona,486,1902 JB,Cremona,"May 11, 1902",Heidelberg,L. Carnera,·,23.0
+487 Venetia,487,1902 JL,Venetia,"July 9, 1902",Heidelberg,L. Carnera,·,59.0
+488 Kreusa,488,1902 JG,Kreusa,"June 26, 1902",Heidelberg,"M. F. Wolf, L. Carnera",·,168.0
+489 Comacina,489,1902 JM,Comacina,"September 2, 1902",Heidelberg,L. Carnera,·,139.0
+490 Veritas,490,1902 JP,Veritas,"September 3, 1902",Heidelberg,M. F. Wolf,VER,119.0
+491 Carina,491,1902 JQ,Carina,"September 3, 1902",Heidelberg,M. F. Wolf,·,91.0
+492 Gismonda,492,1902 JR,Gismonda,"September 3, 1902",Heidelberg,M. F. Wolf,THM,53.0
+493 Griseldis,493,1902 JS,Griseldis,"September 7, 1902",Heidelberg,M. F. Wolf,·,42.0
+494 Virtus,494,1902 JV,Virtus,"October 7, 1902",Heidelberg,M. F. Wolf,·,101.0
+495 Eulalia,495,1902 KG,Eulalia,"October 25, 1902",Heidelberg,M. F. Wolf,·,37.0
+496 Gryphia,496,1902 KH,Gryphia,"October 25, 1902",Heidelberg,M. F. Wolf,slow,14.0
+497 Iva,497,1902 KJ,Iva,"November 4, 1902",Heidelberg,R. S. Dugan,·,41.0
+498 Tokio,498,1902 KU,Tokio,"December 2, 1902",Nice,A. Charlois,·,82.0
+499 Venusia,499,1902 KX,Venusia,"December 24, 1902",Heidelberg,M. F. Wolf,3:2,77.0
+500 Selinur,500,1903 LA,Selinur,"January 16, 1903",Heidelberg,M. F. Wolf,·,41.0
+501 Urhixidur,501,1903 LB,Urhixidur,"January 18, 1903",Heidelberg,M. F. Wolf,·,74.0
+502 Sigune,502,1903 LC,Sigune,"January 19, 1903",Heidelberg,M. F. Wolf,PHO,16.0
+503 Evelyn,503,1903 LF,Evelyn,"January 19, 1903",Heidelberg,R. S. Dugan,·,82.0
+504 Cora,504,1902 LK,Cora,"June 30, 1902",Arequipa,S. I. Bailey,·,30.0
+505 Cava,505,1902 LL,Cava,"August 21, 1902",Arequipa,R. H. Frost,·,115.0
+506 Marion,506,1903 LN,Marion,"February 17, 1903",Heidelberg,R. S. Dugan,·,106.0
+507 Laodica,507,1903 LO,Laodica,"February 19, 1903",Heidelberg,R. S. Dugan,EOS,45.0
+508 Princetonia,508,1903 LQ,Princetonia,"April 20, 1903",Heidelberg,R. S. Dugan,·,117.0
+509 Iolanda,509,1903 LR,Iolanda,"April 28, 1903",Heidelberg,M. F. Wolf,·,52.0
+510 Mabella,510,1903 LT,Mabella,"May 20, 1903",Heidelberg,R. S. Dugan,·,60.0
+511 Davida,511,1903 LU,Davida,"May 30, 1903",Heidelberg,R. S. Dugan,·,270.0
+512 Taurinensis,512,1903 LV,Taurinensis,"June 23, 1903",Heidelberg,M. F. Wolf,·,23.0
+513 Centesima,513,1903 LY,Centesima,"August 24, 1903",Heidelberg,M. F. Wolf,EOS,49.0
+514 Armida,514,1903 MB,Armida,"August 24, 1903",Heidelberg,M. F. Wolf,·,120.0
+515 Athalia,515,1903 ME,Athalia,"September 20, 1903",Heidelberg,M. F. Wolf,THM,41.0
+516 Amherstia,516,1903 MG,Amherstia,"September 20, 1903",Heidelberg,R. S. Dugan,·,65.0
+517 Edith,517,1903 MH,Edith,"September 22, 1903",Heidelberg,R. S. Dugan,·,112.0
+518 Halawe,518,1903 MO,Halawe,"October 20, 1903",Heidelberg,R. S. Dugan,·,16.0
+519 Sylvania,519,1903 MP,Sylvania,"October 20, 1903",Heidelberg,R. S. Dugan,·,40.0
+520 Franziska,520,1903 MV,Franziska,"October 27, 1903",Heidelberg,"M. F. Wolf, P. Götz",EOS,25.0
+521 Brixia,521,1904 NB,Brixia,"January 10, 1904",Heidelberg,R. S. Dugan,·,107.0
+522 Helga,522,1904 NC,Helga,"January 10, 1904",Heidelberg,M. F. Wolf,CYB,101.0
+523 Ada,523,1904 ND,Ada,"January 27, 1904",Heidelberg,R. S. Dugan,·,32.0
+524 Fidelio,524,1904 NN,Fidelio,"March 14, 1904",Heidelberg,M. F. Wolf,·,66.0
+525 Adelaide,525,1908 EKa,Adelaide,"October 21, 1908",Taunton,J. H. Metcalf,·,9.3
+526 Jena,526,1904 NQ,Jena,"March 14, 1904",Heidelberg,M. F. Wolf,THM,45.0
+527 Euryanthe,527,1904 NR,Euryanthe,"March 20, 1904",Heidelberg,M. F. Wolf,·,53.0
+528 Rezia,528,1904 NS,Rezia,"March 20, 1904",Heidelberg,M. F. Wolf,CYB,92.0
+529 Preziosa,529,1904 NT,Preziosa,"March 20, 1904",Heidelberg,M. F. Wolf,EOS,32.0
+530 Turandot,530,1904 NV,Turandot,"April 11, 1904",Heidelberg,M. F. Wolf,·,85.0
+531 Zerlina,531,1904 NW,Zerlina,"April 12, 1904",Heidelberg,M. F. Wolf,PAL,18.0
+532 Herculina,532,1904 NY,Herculina,"April 20, 1904",Heidelberg,M. F. Wolf,·,168.0
+533 Sara,533,1904 NZ,Sara,"April 19, 1904",Heidelberg,R. S. Dugan,·,31.0
+534 Nassovia,534,1904 OA,Nassovia,"April 19, 1904",Heidelberg,R. S. Dugan,KOR,32.0
+535 Montague,535,1904 OC,Montague,"May 7, 1904",Heidelberg,R. S. Dugan,·,79.0
+536 Merapi,536,1904 OF,Merapi,"May 11, 1904",Washington,G. H. Peters,CYB,147.0
+537 Pauly,537,1904 OG,Pauly,"July 7, 1904",Nice,A. Charlois,·,41.0
+538 Friederike,538,1904 OK,Friederike,"July 18, 1904",Heidelberg,P. Götz,HYG,71.0
+539 Pamina,539,1904 OL,Pamina,"August 2, 1904",Heidelberg,M. F. Wolf,·,68.0
+540 Rosamunde,540,1904 ON,Rosamunde,"August 3, 1904",Heidelberg,M. F. Wolf,·,19.0
+541 Deborah,541,1904 OO,Deborah,"August 4, 1904",Heidelberg,M. F. Wolf,·,60.0
+542 Susanna,542,1904 OQ,Susanna,"August 15, 1904",Heidelberg,"P. Götz, A. Kopff",·,42.0
+543 Charlotte,543,1904 OT,Charlotte,"September 11, 1904",Heidelberg,P. Götz,·,46.0
+544 Jetta,544,1904 OU,Jetta,"September 11, 1904",Heidelberg,P. Götz,·,27.0
+545 Messalina,545,1904 OY,Messalina,"October 3, 1904",Heidelberg,P. Götz,·,113.0
+546 Herodias,546,1904 PA,Herodias,"October 10, 1904",Heidelberg,P. Götz,·,66.0
+547 Praxedis,547,1904 PB,Praxedis,"October 14, 1904",Heidelberg,P. Götz,·,52.0
+548 Kressida,548,1904 PC,Kressida,"October 14, 1904",Heidelberg,P. Götz,·,14.0
+549 Jessonda,549,1904 PK,Jessonda,"November 15, 1904",Heidelberg,M. F. Wolf,·,16.0
+550 Senta,550,1904 PL,Senta,"November 16, 1904",Heidelberg,M. F. Wolf,·,37.0
+551 Ortrud,551,1904 PM,Ortrud,"November 16, 1904",Heidelberg,M. F. Wolf,·,81.0
+552 Sigelinde,552,1904 PO,Sigelinde,"December 14, 1904",Heidelberg,M. F. Wolf,·,89.0
+553 Kundry,553,1904 PP,Kundry,"December 27, 1904",Heidelberg,M. F. Wolf,·,9.0
+554 Peraga,554,1905 PS,Peraga,"January 8, 1905",Heidelberg,P. Götz,·,96.0
+555 Norma,555,1905 PT,Norma,"January 14, 1905",Heidelberg,M. F. Wolf,·,31.0
+556 Phyllis,556,1905 PW,Phyllis,"January 8, 1905",Heidelberg,P. Götz,V,36.0
+557 Violetta,557,1905 PY,Violetta,"January 26, 1905",Heidelberg,M. F. Wolf,·,23.0
+558 Carmen,558,1905 QB,Carmen,"February 9, 1905",Heidelberg,M. F. Wolf,·,55.0
+559 Nanon,559,1905 QD,Nanon,"March 8, 1905",Heidelberg,M. F. Wolf,·,80.0
+560 Delila,560,1905 QF,Delila,"March 13, 1905",Heidelberg,M. F. Wolf,·,35.0
+561 Ingwelde,561,1905 QG,Ingwelde,"March 26, 1905",Heidelberg,M. F. Wolf,THM,32.0
+562 Salome,562,1905 QH,Salome,"April 3, 1905",Heidelberg,M. F. Wolf,EOS,33.0
+563 Suleika,563,1905 QK,Suleika,"April 6, 1905",Heidelberg,P. Götz,·,53.0
+564 Dudu,564,1905 QM,Dudu,"May 9, 1905",Heidelberg,P. Götz,·,52.0
+565 Marbachia,565,1905 QN,Marbachia,"May 9, 1905",Heidelberg,M. F. Wolf,·,27.0
+566 Stereoskopia,566,1905 QO,Stereoskopia,"May 28, 1905",Heidelberg,P. Götz,CYB,167.0
+567 Eleutheria,567,1905 QP,Eleutheria,"May 28, 1905",Heidelberg,P. Götz,·,93.0
+568 Cheruskia,568,1905 QS,Cheruskia,"July 26, 1905",Heidelberg,P. Götz,·,71.0
+569 Misa,569,1905 QT,Misa,"July 27, 1905",Vienna,J. Palisa,MIS,73.0
+570 Kythera,570,1905 QX,Kythera,"July 30, 1905",Heidelberg,M. F. Wolf,CYB,87.0
+571 Dulcinea,571,1905 QZ,Dulcinea,"September 4, 1905",Heidelberg,P. Götz,slow,12.0
+572 Rebekka,572,1905 RB,Rebekka,"September 19, 1905",Heidelberg,P. Götz,·,29.0
+573 Recha,573,1905 RC,Recha,"September 19, 1905",Heidelberg,M. F. Wolf,EOS,48.0
+574 Reginhild,574,1905 RD,Reginhild,"September 19, 1905",Heidelberg,M. F. Wolf,·,8.5
+575 Renate,575,1905 RE,Renate,"September 19, 1905",Heidelberg,M. F. Wolf,MAR,19.0
+576 Emanuela,576,1905 RF,Emanuela,"September 22, 1905",Heidelberg,P. Götz,·,74.0
+577 Rhea,577,1905 RH,Rhea,"October 20, 1905",Heidelberg,M. F. Wolf,·,38.0
+578 Happelia,578,1905 RZ,Happelia,"November 1, 1905",Heidelberg,M. F. Wolf,·,69.0
+579 Sidonia,579,1905 SD,Sidonia,"November 3, 1905",Heidelberg,A. Kopff,EOS,86.0
+580 Selene,580,1905 SE,Selene,"December 17, 1905",Heidelberg,M. F. Wolf,·,48.0
+581 Tauntonia,581,1905 SH,Tauntonia,"December 24, 1905",Taunton,J. H. Metcalf,·,61.0
+582 Olympia,582,1906 SO,Olympia,"January 23, 1906",Heidelberg,A. Kopff,·,44.0
+583 Klotilde,583,1905 SP,Klotilde,"December 31, 1905",Vienna,J. Palisa,·,78.0
+584 Semiramis,584,1906 SY,Semiramis,"January 15, 1906",Heidelberg,A. Kopff,·,54.0
+585 Bilkis,585,1906 TA,Bilkis,"February 16, 1906",Heidelberg,A. Kopff,·,50.0
+586 Thekla,586,1906 TC,Thekla,"February 21, 1906",Heidelberg,M. F. Wolf,·,95.0
+587 Hypsipyle,587,1906 TF,Hypsipyle,"February 22, 1906",Heidelberg,M. F. Wolf,PHO,11.0
+588 Achilles,588,1906 TG,Achilles,"February 22, 1906",Heidelberg,M. F. Wolf,L4,130.0
+589 Croatia,589,1906 TM,Croatia,"March 3, 1906",Heidelberg,A. Kopff,·,94.0
+590 Tomyris,590,1906 TO,Tomyris,"March 4, 1906",Heidelberg,M. F. Wolf,EOS,31.0
+591 Irmgard,591,1906 TP,Irmgard,"March 14, 1906",Heidelberg,A. Kopff,·,52.0
+592 Bathseba,592,1906 TS,Bathseba,"March 18, 1906",Heidelberg,M. F. Wolf,·,44.0
+593 Titania,593,1906 TT,Titania,"March 20, 1906",Heidelberg,A. Kopff,·,70.0
+594 Mireille,594,1906 TW,Mireille,"March 27, 1906",Heidelberg,M. F. Wolf,·,9.2
+595 Polyxena,595,1906 TZ,Polyxena,"March 27, 1906",Heidelberg,A. Kopff,·,91.0
+596 Scheila,596,1906 UA,Scheila,"February 21, 1906",Heidelberg,A. Kopff,·,160.0
+597 Bandusia,597,1906 UB,Bandusia,"April 16, 1906",Heidelberg,M. F. Wolf,·,36.0
+598 Octavia,598,1906 UC,Octavia,"April 13, 1906",Heidelberg,M. F. Wolf,·,78.0
+599 Luisa,599,1906 UJ,Luisa,"April 25, 1906",Taunton,J. H. Metcalf,·,70.0
+600 Musa,600,1906 UM,Musa,"June 14, 1906",Taunton,J. H. Metcalf,·,25.0
+601 Nerthus,601,1906 UN,Nerthus,"June 21, 1906",Heidelberg,M. F. Wolf,·,76.0
+602 Marianna,602,1906 TE,Marianna,"February 16, 1906",Taunton,J. H. Metcalf,·,110.0
+603 Timandra,603,1906 TJ,Timandra,"February 16, 1906",Taunton,J. H. Metcalf,slow,14.0
+604 Tekmessa,604,1906 TK,Tekmessa,"February 16, 1906",Taunton,J. H. Metcalf,·,65.0
+605 Juvisia,605,1906 UU,Juvisia,"August 27, 1906",Heidelberg,M. F. Wolf,·,70.0
+606 Brangäne,606,1906 VB,Brangäne,"September 18, 1906",Heidelberg,A. Kopff,BRG,36.0
+607 Jenny,607,1906 VC,Jenny,"September 18, 1906",Heidelberg,A. Kopff,·,68.0
+608 Adolfine,608,1906 VD,Adolfine,"September 18, 1906",Heidelberg,A. Kopff,EOS,20.0
+609 Fulvia,609,1906 VF,Fulvia,"September 24, 1906",Heidelberg,M. F. Wolf,·,54.0
+610 Valeska,610,1906 VK,Valeska,"September 26, 1906",Heidelberg,M. F. Wolf,·,19.0
+611 Valeria,611,1906 VL,Valeria,"September 24, 1906",Taunton,J. H. Metcalf,·,57.0
+612 Veronika,612,1906 VN,Veronika,"October 8, 1906",Heidelberg,A. Kopff,·,39.0
+613 Ginevra,613,1906 VP,Ginevra,"October 11, 1906",Heidelberg,A. Kopff,·,81.0
+614 Pia,614,1906 VQ,Pia,"October 11, 1906",Heidelberg,A. Kopff,·,29.0
+615 Roswitha,615,1906 VR,Roswitha,"October 11, 1906",Heidelberg,A. Kopff,·,49.0
+616 Elly,616,1906 VT,Elly,"October 17, 1906",Heidelberg,A. Kopff,MAR,21.0
+617 Patroclus,617,1906 VY,Patroclus,"October 17, 1906",Heidelberg,A. Kopff,L5 · moon · slow,140.0
+618 Elfriede,618,1906 VZ,Elfriede,"October 17, 1906",Heidelberg,"Lohnert, K.",ELF,131.0
+619 Triberga,619,1906 WC,Triberga,"October 22, 1906",Heidelberg,A. Kopff,·,29.0
+620 Drakonia,620,1906 WE,Drakonia,"October 26, 1906",Taunton,J. H. Metcalf,·,11.0
+621 Werdandi,621,1906 WJ,Werdandi,"November 11, 1906",Heidelberg,A. Kopff,THM ·,30.0
+622 Esther,622,1906 WP,Esther,"November 13, 1906",Taunton,J. H. Metcalf,·,22.0
+623 Chimaera,623,1907 XJ,Chimaera,"January 22, 1907",Heidelberg,"Lohnert, K.",PHO,44.0
+624 Hektor,624,1907 XM,Hektor,"February 10, 1907",Heidelberg,A. Kopff,L4 · HEK · moon,225.0
+625 Xenia,625,1907 XN,Xenia,"February 11, 1907",Heidelberg,A. Kopff,·,28.0
+626 Notburga,626,1907 XO,Notburga,"February 11, 1907",Heidelberg,A. Kopff,·,73.0
+627 Charis,627,1907 XS,Charis,"March 4, 1907",Heidelberg,A. Kopff,·,38.0
+628 Christine,628,1907 XT,Christine,"March 7, 1907",Heidelberg,A. Kopff,·,48.0
+629 Bernardina,629,1907 XU,Bernardina,"March 7, 1907",Heidelberg,A. Kopff,·,35.0
+630 Euphemia,630,1907 XW,Euphemia,"March 7, 1907",Heidelberg,A. Kopff,EUN · slow,16.0
+631 Philippina,631,1907 YJ,Philippina,"March 21, 1907",Heidelberg,A. Kopff,·,50.0
+632 Pyrrha,632,1907 YX,Pyrrha,"April 5, 1907",Heidelberg,A. Kopff,·,14.0
+633 Zelima,633,1907 ZM,Zelima,"May 12, 1907",Heidelberg,A. Kopff,EOS,33.0
+634 Ute,634,1907 ZN,Ute,"May 12, 1907",Heidelberg,A. Kopff,·,74.0
+635 Vundtia,635,1907 ZS,Vundtia,"June 9, 1907",Heidelberg,"Lohnert, K.",EOS,94.0
+636 Erika,636,1907 XP,Erika,"February 8, 1907",Taunton,J. H. Metcalf,·,73.0
+637 Chrysothemis,637,1907 YE,Chrysothemis,"March 11, 1907",Taunton,J. H. Metcalf,THM,24.0
+638 Moira,638,1907 ZQ,Moira,"May 5, 1907",Taunton,J. H. Metcalf,·,60.0
+639 Latona,639,1907 ZT,Latona,"July 19, 1907",Heidelberg,"Lohnert, K.",EOS,79.0
+640 Brambilla,640,1907 ZW,Brambilla,"August 29, 1907",Heidelberg,A. Kopff,·,63.0
+641 Agnes,641,1907 ZX,Agnes,"September 8, 1907",Heidelberg,M. F. Wolf,slow,9.4
+642 Clara,642,1907 ZY,Clara,"September 8, 1907",Heidelberg,M. F. Wolf,·,33.0
+643 Scheherezade,643,1907 ZZ,Scheherezade,"September 8, 1907",Heidelberg,A. Kopff,CYB,65.0
+644 Cosima,644,1907 AA,Cosima,"September 7, 1907",Heidelberg,A. Kopff,·,17.0
+645 Agrippina,645,1907 AG,Agrippina,"September 13, 1907",Taunton,J. H. Metcalf,·,29.0
+646 Kastalia,646,1907 AC,Kastalia,"September 11, 1907",Heidelberg,A. Kopff,·,8.2
+647 Adelgunde,647,1907 AD,Adelgunde,"September 11, 1907",Heidelberg,A. Kopff,·,9.7
+648 Pippa,648,1907 AE,Pippa,"September 11, 1907",Heidelberg,A. Kopff,·,68.0
+649 Josefa,649,1907 AF,Josefa,"September 11, 1907",Heidelberg,A. Kopff,·,7.7
+650 Amalasuntha,650,1907 AM,Amalasuntha,"October 4, 1907",Heidelberg,A. Kopff,NYS,19.0
+651 Antikleia,651,1907 AN,Antikleia,"October 4, 1907",Heidelberg,A. Kopff,EOS,32.0
+652 Jubilatrix,652,1907 AU,Jubilatrix,"November 4, 1907",Vienna,J. Palisa,·,16.0
+653 Berenike,653,1907 BK,Berenike,"November 27, 1907",Taunton,J. H. Metcalf,EOS,50.0
+654 Zelinda,654,1908 BM,Zelinda,"January 4, 1908",Heidelberg,A. Kopff,PHO,161.0
+655 Briseïs,655,1907 BF,Briseïs,"November 4, 1907",Taunton,J. H. Metcalf,slow,29.0
+656 Beagle,656,1908 BU,Beagle,"January 22, 1908",Heidelberg,A. Kopff,THM,63.0
+657 Gunlöd,657,1908 BV,Gunlöd,"January 23, 1908",Heidelberg,A. Kopff,·,39.0
+658 Asteria,658,1908 BW,Asteria,"January 23, 1908",Heidelberg,A. Kopff,KOR,22.0
+659 Nestor,659,1908 CS,Nestor,"March 23, 1908",Heidelberg,M. F. Wolf,L4,112.0
+660 Crescentia,660,1908 CC,Crescentia,"January 8, 1908",Taunton,J. H. Metcalf,MAR,42.0
+661 Cloelia,661,1908 CL,Cloelia,"February 22, 1908",Taunton,J. H. Metcalf,EOS,40.0
+662 Newtonia,662,1908 CW,Newtonia,"March 30, 1908",Taunton,J. H. Metcalf,·,22.0
+663 Gerlinde,663,1908 DG,Gerlinde,"June 24, 1908",Heidelberg,A. Kopff,·,108.0
+664 Judith,664,1908 DH,Judith,"June 24, 1908",Heidelberg,A. Kopff,·,85.0
+665 Sabine,665,1908 DK,Sabine,"July 22, 1908",Heidelberg,W. Lorenz,·,51.0
+666 Desdemona,666,1908 DM,Desdemona,"July 23, 1908",Heidelberg,A. Kopff,·,33.0
+667 Denise,667,1908 DN,Denise,"July 23, 1908",Heidelberg,A. Kopff,·,89.0
+668 Dora,668,1908 DO,Dora,"July 27, 1908",Heidelberg,A. Kopff,DOR,22.0
+669 Kypria,669,1908 DQ,Kypria,"August 20, 1908",Heidelberg,A. Kopff,EOS,29.0
+670 Ottegebe,670,1908 DR,Ottegebe,"August 20, 1908",Heidelberg,A. Kopff,·,36.0
+671 Carnegia,671,1908 DV,Carnegia,"September 21, 1908",Vienna,J. Palisa,·,61.0
+672 Astarte,672,1908 DY,Astarte,"September 21, 1908",Heidelberg,A. Kopff,·,36.0
+673 Edda,673,1908 EA,Edda,"September 20, 1908",Taunton,J. H. Metcalf,·,38.0
+674 Rachele,674,1908 EP,Rachele,"October 28, 1908",Heidelberg,W. Lorenz,·,96.0
+675 Ludmilla,675,1908 DU,Ludmilla,"August 30, 1908",Taunton,J. H. Metcalf,·,76.0
+676 Melitta,676,1909 FN,Melitta,"January 16, 1909",Greenwich,P. Melotte,EOS,78.0
+677 Aaltje,677,1909 FR,Aaltje,"January 18, 1909",Heidelberg,A. Kopff,·,32.0
+678 Fredegundis,678,1909 FS,Fredegundis,"January 22, 1909",Heidelberg,W. Lorenz,·,40.0
+679 Pax,679,1909 FY,Pax,"January 28, 1909",Heidelberg,A. Kopff,·,64.0
+680 Genoveva,680,1909 GW,Genoveva,"April 22, 1909",Heidelberg,A. Kopff,·,84.0
+681 Gorgo,681,1909 GZ,Gorgo,"May 13, 1909",Heidelberg,A. Kopff,·,20.0
+682 Hagar,682,1909 HA,Hagar,"June 17, 1909",Heidelberg,A. Kopff,EUN,10.0
+683 Lanzia,683,1909 HC,Lanzia,"July 23, 1909",Heidelberg,M. F. Wolf,·,83.0
+684 Hildburg,684,1909 HD,Hildburg,"August 8, 1909",Heidelberg,A. Kopff,·,19.0
+685 Hermia,685,1909 HE,Hermia,"August 12, 1909",Heidelberg,W. Lorenz,·,11.0
+686 Gersuind,686,1909 HF,Gersuind,"August 15, 1909",Heidelberg,A. Kopff,(194),55.0
+687 Tinette,687,1909 HG,Tinette,"August 16, 1909",Vienna,J. Palisa,·,22.0
+688 Melanie,688,1909 HH,Melanie,"August 25, 1909",Vienna,J. Palisa,·,42.0
+689 Zita,689,1909 HJ,Zita,"September 12, 1909",Vienna,J. Palisa,·,16.0
+690 Wratislavia,690,1909 HZ,Wratislavia,"October 16, 1909",Taunton,J. H. Metcalf,·,135.0
+691 Lehigh,691,1909 JG,Lehigh,"December 11, 1909",Taunton,J. H. Metcalf,·,79.0
+692 Hippodamia,692,1901 HD,Hippodamia,"November 5, 1901",Heidelberg,"M. F. Wolf, A. Kopff",Tj (2.96) · CYB,43.0
+693 Zerbinetta,693,1909 HN,Zerbinetta,"September 21, 1909",Heidelberg,A. Kopff,·,82.0
+694 Ekard,694,1909 JA,Ekard,"November 7, 1909",Taunton,J. H. Metcalf,·,122.0
+695 Bella,695,1909 JB,Bella,"November 7, 1909",Taunton,J. H. Metcalf,MAR,41.0
+696 Leonora,696,1910 JJ,Leonora,"January 10, 1910",Taunton,J. H. Metcalf,·,82.0
+697 Galilea,697,1910 JO,Galilea,"February 14, 1910",Heidelberg,J. Helffrich,·,80.0
+698 Ernestina,698,1910 JX,Ernestina,"March 5, 1910",Heidelberg,J. Helffrich,·,27.0
+699 Hela,699,1910 KD,Hela,"June 5, 1910",Heidelberg,J. Helffrich,·,20.0
+700 Auravictrix,700,1910 KE,Auravictrix,"June 5, 1910",Heidelberg,J. Helffrich,·,16.0
+701 Oriola,701,1910 KN,Oriola,"July 12, 1910",Heidelberg,J. Helffrich,·,43.0
+702 Alauda,702,1910 KQ,Alauda,"July 16, 1910",Heidelberg,J. Helffrich,moon,191.0
+703 Noëmi,703,1910 KT,Noëmi,"October 3, 1910",Vienna,J. Palisa,slow,7.2
+704 Interamnia,704,1910 KU,Interamnia,"October 2, 1910",Teramo,V. Cerulli,·,306.0
+705 Erminia,705,1910 KV,Erminia,"October 6, 1910",Heidelberg,E. Ernst,·,132.0
+706 Hirundo,706,1910 KX,Hirundo,"October 9, 1910",Heidelberg,J. Helffrich,·,31.0
+707 Steina,707,1910 LD,Steina,"December 22, 1910",Heidelberg,M. F. Wolf,slow,9.0
+708 Raphaela,708,1911 LJ,Raphaela,"February 3, 1911",Heidelberg,J. Helffrich,·,21.0
+709 Fringilla,709,1911 LK,Fringilla,"February 3, 1911",Heidelberg,J. Helffrich,·,95.0
+710 Gertrud,710,1911 LM,Gertrud,"February 28, 1911",Vienna,J. Palisa,THM,29.0
+711 Marmulla,711,1911 LN,Marmulla,"March 1, 1911",Vienna,J. Palisa,·,9.0
+712 Boliviana,712,1911 LO,Boliviana,"March 19, 1911",Heidelberg,M. F. Wolf,·,124.0
+713 Luscinia,713,1911 LS,Luscinia,"April 18, 1911",Heidelberg,J. Helffrich,CYB,98.0
+714 Ulula,714,1911 LW,Ulula,"May 18, 1911",Heidelberg,J. Helffrich,MAR,41.0
+715 Transvaalia,715,1911 LX,Transvaalia,"April 22, 1911",Johannesburg,H. E. Wood,·,25.0
+716 Berkeley,716,1911 MD,Berkeley,"July 30, 1911",Vienna,J. Palisa,·,20.0
+717 Wisibada,717,1911 MJ,Wisibada,"August 26, 1911",Heidelberg,F. Kaiser,·,28.0
+718 Erida,718,1911 MS,Erida,"September 29, 1911",Vienna,J. Palisa,·,71.0
+719 Albert,719,1911 MT,Albert,"October 3, 1911",Vienna,J. Palisa,AMO +1 km(0.62 mi),2.7
+720 Bohlinia,720,1911 MW,Bohlinia,"October 18, 1911",Heidelberg,F. Kaiser,KOR,34.0
+721 Tabora,721,1911 MZ,Tabora,"October 18, 1911",Heidelberg,F. Kaiser,CYB,86.0
+722 Frieda,722,1911 NA,Frieda,"October 18, 1911",Vienna,J. Palisa,slow,8.3
+723 Hammonia,723,1911 NB,Hammonia,"October 21, 1911",Vienna,J. Palisa,·,23.0
+724 Hapag,724,1911 NC,Hapag,"October 21, 1911",Vienna,J. Palisa,·,9.5
+725 Amanda,725,1911 ND,Amanda,"October 21, 1911",Vienna,J. Palisa,·,24.0
+726 Joëlla,726,1911 NM,Joëlla,"November 22, 1911",Winchester,J. H. Metcalf,·,44.0
+727 Nipponia,727,1912 NT,Nipponia,"February 11, 1912",Heidelberg,A. Massinger,MAR,32.0
+728 Leonisis,728,1912 NU,Leonisis,"February 16, 1912",Vienna,J. Palisa,·,5.9
+729 Watsonia,729,1912 OD,Watsonia,"February 9, 1912",Winchester,J. H. Metcalf,WAT,50.0
+730 Athanasia,730,1912 OK,Athanasia,"April 10, 1912",Vienna,J. Palisa,·,4.5
+731 Sorga,731,1912 OQ,Sorga,"April 15, 1912",Heidelberg,A. Massinger,·,35.0
+732 Tjilaki,732,1912 OR,Tjilaki,"April 15, 1912",Heidelberg,A. Massinger,·,30.0
+733 Mocia,733,1912 PF,Mocia,"September 16, 1912",Heidelberg,M. F. Wolf,CYB,98.0
+734 Benda,734,1912 PH,Benda,"October 11, 1912",Vienna,J. Palisa,·,67.0
+735 Marghanna,735,1912 PY,Marghanna,"December 9, 1912",Heidelberg,H. Vogt,·,68.0
+736 Harvard,736,1912 PZ,Harvard,"November 16, 1912",Winchester,J. H. Metcalf,·,17.0
+737 Arequipa,737,1912 QB,Arequipa,"December 7, 1912",Winchester,J. H. Metcalf,·,48.0
+738 Alagasta,738,1913 QO,Alagasta,"January 7, 1913",Heidelberg,F. Kaiser,·,63.0
+739 Mandeville,739,1913 QR,Mandeville,"February 7, 1913",Winchester,J. H. Metcalf,·,105.0
+740 Cantabia,740,1913 QS,Cantabia,"February 10, 1913",Winchester,J. H. Metcalf,·,91.0
+741 Botolphia,741,1913 QT,Botolphia,"February 10, 1913",Winchester,J. H. Metcalf,·,30.0
+742 Edisona,742,1913 QU,Edisona,"February 23, 1913",Heidelberg,F. Kaiser,EOS,47.0
+743 Eugenisis,743,1913 QV,Eugenisis,"February 25, 1913",Heidelberg,F. Kaiser,·,51.0
+744 Aguntina,744,1913 QW,Aguntina,"February 26, 1913",Vienna,J. Rheden,·,59.0
+745 Mauritia,745,1913 QX,Mauritia,"March 1, 1913",Heidelberg,F. Kaiser,·,25.0
+746 Marlu,746,1913 QY,Marlu,"March 1, 1913",Heidelberg,F. Kaiser,·,74.0
+747 Winchester,747,1913 QZ,Winchester,"March 7, 1913",Winchester,J. H. Metcalf,·,172.0
+748 Simeïsa,748,1913 RD,Simeïsa,"March 14, 1913",Crimea-Simeis,G. N. Neujmin,3:2,104.0
+749 Malzovia,749,1913 RF,Malzovia,"April 5, 1913",Crimea-Simeis,S. Belyavsky,·,11.0
+750 Oskar,750,1913 RG,Oskar,"April 28, 1913",Vienna,J. Palisa,NYS,23.0
+751 Faïna,751,1913 RK,Faïna,"April 28, 1913",Crimea-Simeis,G. N. Neujmin,·,114.0
+752 Sulamitis,752,1913 RL,Sulamitis,"April 30, 1913",Crimea-Simeis,G. N. Neujmin,SUL,60.0
+753 Tiflis,753,1913 RM,Tiflis,"April 30, 1913",Crimea-Simeis,G. N. Neujmin,·,21.0
+754 Malabar,754,1906 UT,Malabar,"August 22, 1906",Heidelberg,A. Kopff,·,95.0
+755 Quintilla,755,1908 CZ,Quintilla,"April 6, 1908",Taunton,J. H. Metcalf,·,41.0
+756 Lilliana,756,1908 DC,Lilliana,"April 26, 1908",Taunton,J. H. Metcalf,·,65.0
+757 Portlandia,757,1908 EJ,Portlandia,"September 30, 1908",Taunton,J. H. Metcalf,·,33.0
+758 Mancunia,758,1912 PE,Mancunia,"May 18, 1912",Johannesburg,H. E. Wood,HYG,89.0
+759 Vinifera,759,1913 SJ,Vinifera,"August 26, 1913",Heidelberg,F. Kaiser,·,53.0
+760 Massinga,760,1913 SL,Massinga,"August 28, 1913",Heidelberg,F. Kaiser,·,71.0
+761 Brendelia,761,1913 SO,Brendelia,"September 8, 1913",Heidelberg,F. Kaiser,KOR · moon,21.0
+762 Pulcova,762,1913 SQ,Pulcova,"September 3, 1913",Crimea-Simeis,G. N. Neujmin,moon,147.0
+763 Cupido,763,1913 ST,Cupido,"September 25, 1913",Heidelberg,F. Kaiser,slow,7.0
+764 Gedania,764,1913 SU,Gedania,"September 26, 1913",Heidelberg,F. Kaiser,·,58.0
+765 Mattiaca,765,1913 SV,Mattiaca,"September 26, 1913",Heidelberg,F. Kaiser,(5),8.0
+766 Moguntia,766,1913 SW,Moguntia,"September 29, 1913",Heidelberg,F. Kaiser,EOS ·,41.0
+767 Bondia,767,1913 SX,Bondia,"September 23, 1913",Winchester,J. H. Metcalf,THM,43.0
+768 Struveana,768,1913 SZ,Struveana,"October 4, 1913",Crimea-Simeis,G. N. Neujmin,·,33.0
+769 Tatjana,769,1913 TA,Tatjana,"October 6, 1913",Crimea-Simeis,G. N. Neujmin,·,97.0
+770 Bali,770,1913 TE,Bali,"October 31, 1913",Heidelberg,A. Massinger,·,16.0
+771 Libera,771,1913 TO,Libera,"November 21, 1913",Vienna,J. Rheden,·,29.0
+772 Tanete,772,1913 TR,Tanete,"December 19, 1913",Heidelberg,A. Massinger,·,126.0
+773 Irmintraud,773,1913 TV,Irmintraud,"December 22, 1913",Heidelberg,F. Kaiser,·,92.0
+774 Armor,774,1913 TW,Armor,"December 19, 1913",Paris,C. le Morvan,·,50.0
+775 Lumière,775,1914 TX,Lumière,"January 6, 1914",Nice,J. Lagrula,EOS,32.0
+776 Berbericia,776,1914 TY,Berbericia,"January 24, 1914",Heidelberg,A. Massinger,·,152.0
+777 Gutemberga,777,1914 TZ,Gutemberga,"January 24, 1914",Heidelberg,F. Kaiser,·,72.0
+778 Theobalda,778,1914 UA,Theobalda,"January 25, 1914",Heidelberg,F. Kaiser,THB,55.0
+779 Nina,779,1914 UB,Nina,"January 25, 1914",Crimea-Simeis,G. N. Neujmin,·,81.0
+780 Armenia,780,1914 UC,Armenia,"January 25, 1914",Crimea-Simeis,G. N. Neujmin,ARM,126.0
+781 Kartvelia,781,1914 UF,Kartvelia,"January 25, 1914",Crimea-Simeis,G. N. Neujmin,·,73.0
+782 Montefiore,782,1914 UK,Montefiore,"March 18, 1914",Vienna,J. Palisa,·,14.0
+783 Nora,783,1914 UL,Nora,"March 18, 1914",Vienna,J. Palisa,·,39.0
+784 Pickeringia,784,1914 UM,Pickeringia,"March 20, 1914",Winchester,J. H. Metcalf,·,76.0
+785 Zwetana,785,1914 UN,Zwetana,"March 30, 1914",Heidelberg,A. Massinger,·,49.0
+786 Bredichina,786,1914 UO,Bredichina,"April 20, 1914",Heidelberg,F. Kaiser,·,108.0
+787 Moskva,787,1914 UQ,Moskva,"April 20, 1914",Crimea-Simeis,G. N. Neujmin,MAR,28.0
+788 Hohensteina,788,1914 UR,Hohensteina,"April 28, 1914",Heidelberg,F. Kaiser,·,111.0
+789 Lena,789,1914 UU,Lena,"June 24, 1914",Crimea-Simeis,G. N. Neujmin,·,22.0
+790 Pretoria,790,1912 NW,Pretoria,"January 16, 1912",Johannesburg,H. E. Wood,CYB,170.0
+791 Ani,791,1914 UV,Ani,"June 29, 1914",Crimea-Simeis,G. N. Neujmin,·,117.0
+792 Metcalfia,792,1907 ZC,Metcalfia,"March 20, 1907",Taunton,J. H. Metcalf,·,62.0
+793 Arizona,793,1907 ZD,Arizona,"April 9, 1907",Flagstaff,P. Lowell,·,27.0
+794 Irenaea,794,1914 VB,Irenaea,"August 27, 1914",Vienna,J. Palisa,·,36.0
+795 Fini,795,1914 VE,Fini,"September 26, 1914",Vienna,J. Palisa,·,85.0
+796 Sarita,796,1914 VH,Sarita,"October 15, 1914",Heidelberg,K. Reinmuth,·,44.0
+797 Montana,797,1914 VR,Montana,"November 17, 1914",Hamburg-Bergedorf,H. Thiele,·,21.0
+798 Ruth,798,1914 VT,Ruth,"November 21, 1914",Heidelberg,M. F. Wolf,EOS,43.0
+799 Gudula,799,1915 WO,Gudula,"March 9, 1915",Heidelberg,K. Reinmuth,·,47.0
+800 Kressmannia,800,1915 WP,Kressmannia,"March 20, 1915",Heidelberg,M. F. Wolf,·,15.0
+801 Helwerthia,801,1915 WQ,Helwerthia,"March 20, 1915",Heidelberg,M. F. Wolf,EUN,32.0
+802 Epyaxa,802,1915 WR,Epyaxa,"March 20, 1915",Heidelberg,M. F. Wolf,·,7.4
+803 Picka,803,1915 WS,Picka,"March 21, 1915",Vienna,J. Palisa,·,46.0
+804 Hispania,804,1915 WT,Hispania,"March 20, 1915",Barcelona,J. Comas i Solà,·,138.0
+805 Hormuthia,805,1915 WW,Hormuthia,"April 17, 1915",Heidelberg,M. F. Wolf,·,73.0
+806 Gyldénia,806,1915 WX,Gyldénia,"April 18, 1915",Heidelberg,M. F. Wolf,·,83.0
+807 Ceraskia,807,1915 WY,Ceraskia,"April 18, 1915",Heidelberg,M. F. Wolf,EOS,21.0
+808 Merxia,808,1901 GY,Merxia,"October 11, 1901",Heidelberg,L. Carnera,MRX,31.0
+809 Lundia,809,1915 XP,Lundia,"August 11, 1915",Heidelberg,M. F. Wolf,moon,9.4
+810 Atossa,810,1915 XQ,Atossa,"September 8, 1915",Heidelberg,M. F. Wolf,·,8.1
+811 Nauheima,811,1915 XR,Nauheima,"September 8, 1915",Heidelberg,M. F. Wolf,KOR,16.0
+812 Adele,812,1915 XV,Adele,"September 8, 1915",Crimea-Simeis,S. Belyavsky,EUN,12.0
+813 Baumeia,813,1915 YR,Baumeia,"November 28, 1915",Heidelberg,M. F. Wolf,·,12.0
+814 Tauris,814,1916 YT,Tauris,"January 2, 1916",Crimea-Simeis,G. N. Neujmin,·,102.0
+815 Coppelia,815,1916 YU,Coppelia,"February 2, 1916",Heidelberg,M. F. Wolf,·,17.0
+816 Juliana,816,1916 YV,Juliana,"February 8, 1916",Heidelberg,M. F. Wolf,·,51.0
+817 Annika,817,1916 YW,Annika,"February 6, 1916",Heidelberg,M. F. Wolf,·,23.0
+818 Kapteynia,818,1916 YZ,Kapteynia,"February 21, 1916",Heidelberg,M. F. Wolf,·,64.0
+819 Barnardiana,819,1916 ZA,Barnardiana,"March 3, 1916",Heidelberg,M. F. Wolf,·,8.9
+820 Adriana,820,1916 ZB,Adriana,"March 30, 1916",Heidelberg,M. F. Wolf,·,59.0
+821 Fanny,821,1916 ZC,Fanny,"March 31, 1916",Heidelberg,M. F. Wolf,slow,29.0
+822 Lalage,822,1916 ZD,Lalage,"March 31, 1916",Heidelberg,M. F. Wolf,·,8.2
+823 Sisigambis,823,1916 ZG,Sisigambis,"March 31, 1916",Heidelberg,M. F. Wolf,slow,15.0
+824 Anastasia,824,1916 ZH,Anastasia,"March 25, 1916",Crimea-Simeis,G. N. Neujmin,slow,32.0
+825 Tanina,825,1916 ZL,Tanina,"March 27, 1916",Crimea-Simeis,G. N. Neujmin,·,13.0
+826 Henrika,826,1916 ZO,Henrika,"April 28, 1916",Heidelberg,M. F. Wolf,·,23.0
+827 Wolfiana,827,1916 ZW,Wolfiana,"August 29, 1916",Vienna,J. Palisa,·,8.5
+828 Lindemannia,828,1916 ZX,Lindemannia,"August 29, 1916",Vienna,J. Palisa,·,48.0
+829 Academia,829,1916 ZY,Academia,"August 25, 1916",Crimea-Simeis,G. N. Neujmin,·,43.0
+830 Petropolitana,830,1916 ZZ,Petropolitana,"August 25, 1916",Crimea-Simeis,G. N. Neujmin,·,41.0
+831 Stateira,831,1916 AA,Stateira,"September 20, 1916",Heidelberg,M. F. Wolf,slow,7.2
+832 Karin,832,1916 AB,Karin,"September 20, 1916",Heidelberg,M. F. Wolf,KOR,16.0
+833 Monica,833,1916 AC,Monica,"September 20, 1916",Heidelberg,M. F. Wolf,EOS,22.0
+834 Burnhamia,834,1916 AD,Burnhamia,"September 20, 1916",Heidelberg,M. F. Wolf,·,61.0
+835 Olivia,835,1916 AE,Olivia,"September 23, 1916",Heidelberg,M. F. Wolf,·,30.0
+836 Jole,836,1916 AF,Jole,"September 23, 1916",Heidelberg,M. F. Wolf,·,5.8
+837 Schwarzschilda,837,1916 AG,Schwarzschilda,"September 23, 1916",Heidelberg,M. F. Wolf,slow,6.0
+838 Seraphina,838,1916 AH,Seraphina,"September 24, 1916",Heidelberg,M. F. Wolf,·,58.0
+839 Valborg,839,1916 AJ,Valborg,"September 24, 1916",Heidelberg,M. F. Wolf,·,20.0
+840 Zenobia,840,1916 AK,Zenobia,"September 25, 1916",Heidelberg,M. F. Wolf,·,27.0
+841 Arabella,841,1916 AL,Arabella,"October 1, 1916",Heidelberg,M. F. Wolf,·,7.5
+842 Kerstin,842,1916 AM,Kerstin,"October 1, 1916",Heidelberg,M. F. Wolf,·,44.0
+843 Nicolaia,843,1916 AN,Nicolaia,"September 30, 1916",Hamburg-Bergedorf,H. Thiele,·,5.0
+844 Leontina,844,1916 AP,Leontina,"October 1, 1916",Vienna,J. Rheden,·,42.0
+845 Naëma,845,1916 AS,Naëma,"November 16, 1916",Heidelberg,M. F. Wolf,NAE,53.0
+846 Lipperta,846,1916 AT,Lipperta,"November 26, 1916",Hamburg-Bergedorf,K. Gyllenberg,THM · slow,52.0
+847 Agnia,847,1915 XX,Agnia,"September 2, 1915",Crimea-Simeis,G. N. Neujmin,AGN,25.0
+848 Inna,848,1915 XS,Inna,"September 5, 1915",Crimea-Simeis,G. N. Neujmin,THM,33.0
+849 Ara,849,1912 NY,Ara,"February 9, 1912",Crimea-Simeis,S. Belyavsky,·,81.0
+850 Altona,850,Σ 24,Altona,"March 27, 1916",Crimea-Simeis,S. Belyavsky,·,81.0
+851 Zeissia,851,Σ 26,Zeissia,"April 2, 1916",Crimea-Simeis,S. Belyavsky,·,13.0
+852 Wladilena,852,Σ 27,Wladilena,"April 2, 1916",Crimea-Simeis,S. Belyavsky,PHO,27.0
+853 Nansenia,853,Σ 28,Nansenia,"April 2, 1916",Crimea-Simeis,S. Belyavsky,·,28.0
+854 Frostia,854,Σ 29,Frostia,"April 3, 1916",Crimea-Simeis,S. Belyavsky,moon,7.8
+855 Newcombia,855,1916 ZP,Newcombia,"April 3, 1916",Crimea-Simeis,S. Belyavsky,·,12.0
+856 Backlunda,856,Σ 30,Backlunda,"April 3, 1916",Crimea-Simeis,S. Belyavsky,PHO,45.0
+857 Glasenappia,857,Σ 33,Glasenappia,"April 6, 1916",Crimea-Simeis,S. Belyavsky,·,14.0
+858 El Djezaïr,858,1916 a,El Djezaïr,"May 26, 1916",Algiers,F. Sy,·,23.0
+859 Bouzaréah,859,1916 c,Bouzaréah,"October 2, 1916",Algiers,F. Sy,·,65.0
+860 Ursina,860,1917 BD,Ursina,"January 22, 1917",Heidelberg,M. F. Wolf,·,35.0
+861 Aïda,861,1917 BE,Aïda,"January 22, 1917",Heidelberg,M. F. Wolf,·,67.0
+862 Franzia,862,1917 BF,Franzia,"January 28, 1917",Heidelberg,M. F. Wolf,·,27.0
+863 Benkoela,863,1917 BH,Benkoela,"February 9, 1917",Heidelberg,M. F. Wolf,·,39.0
+864 Aase,864,1921 KE,Aase,"September 30, 1921",Heidelberg,K. Reinmuth,·,7.2
+865 Zubaida,865,1917 BO,Zubaida,"February 15, 1917",Heidelberg,M. F. Wolf,PHO,18.0
+866 Fatme,866,1917 BQ,Fatme,"February 25, 1917",Heidelberg,M. F. Wolf,·,78.0
+867 Kovacia,867,1917 BS,Kovacia,"February 25, 1917",Vienna,J. Palisa,·,24.0
+868 Lova,868,1917 BU,Lova,"April 26, 1917",Heidelberg,M. F. Wolf,·,51.0
+869 Mellena,869,1917 BV,Mellena,"May 9, 1917",Hamburg-Bergedorf,R. Schorr,·,21.0
+870 Manto,870,1917 BX,Manto,"May 12, 1917",Heidelberg,M. F. Wolf,slow,14.0
+871 Amneris,871,1917 BY,Amneris,"May 14, 1917",Heidelberg,M. F. Wolf,·,8.0
+872 Holda,872,1917 BZ,Holda,"May 21, 1917",Heidelberg,M. F. Wolf,·,34.0
+873 Mechthild,873,1917 CA,Mechthild,"May 21, 1917",Heidelberg,M. F. Wolf,·,34.0
+874 Rotraut,874,1917 CC,Rotraut,"May 25, 1917",Heidelberg,M. F. Wolf,·,58.0
+875 Nymphe,875,1917 CF,Nymphe,"May 19, 1917",Heidelberg,M. F. Wolf,MAR,14.0
+876 Scott,876,1917 CH,Scott,"June 20, 1917",Vienna,J. Palisa,EOS,22.0
+877 Walküre,877,Σ 7,Walküre,"September 13, 1915",Crimea-Simeis,G. N. Neujmin,·,38.0
+878 Mildred,878,1916 f,Mildred,"September 6, 1916",Mount Wilson,S. B. Nicholson,NYS,2.5
+879 Ricarda,879,1917 CJ,Ricarda,"July 22, 1917",Heidelberg,M. F. Wolf,MAR · slow,18.0
+880 Herba,880,1917 CK,Herba,"July 22, 1917",Heidelberg,M. F. Wolf,·,32.0
+881 Athene,881,1917 CL,Athene,"July 22, 1917",Heidelberg,M. F. Wolf,·,12.0
+882 Swetlana,882,1917 CM,Swetlana,"August 15, 1917",Crimea-Simeis,G. N. Neujmin,·,42.0
+883 Matterania,883,1917 CP,Matterania,"September 14, 1917",Heidelberg,M. F. Wolf,(883),7.0
+884 Priamus,884,1917 CQ,Priamus,"September 22, 1917",Heidelberg,M. F. Wolf,L5,101.0
+885 Ulrike,885,1917 CX,Ulrike,"September 23, 1917",Crimea-Simeis,S. Belyavsky,THM,31.0
+886 Washingtonia,886,1917 b,Washingtonia,"November 16, 1917",Washington,G. H. Peters,·,87.0
+887 Alinda,887,1918 DB,Alinda,"January 3, 1918",Heidelberg,M. F. Wolf,AMO +1 km(0.62 mi) · (887),4.2
+888 Parysatis,888,1918 DC,Parysatis,"February 2, 1918",Heidelberg,M. F. Wolf,·,45.0
+889 Erynia,889,1918 DG,Erynia,"March 5, 1918",Heidelberg,M. F. Wolf,·,17.0
+890 Waltraut,890,1918 DK,Waltraut,"March 11, 1918",Heidelberg,M. F. Wolf,EOS,28.0
+891 Gunhild,891,1918 DQ,Gunhild,"May 17, 1918",Heidelberg,M. F. Wolf,·,56.0
+892 Seeligeria,892,1918 DR,Seeligeria,"May 31, 1918",Heidelberg,M. F. Wolf,·,74.0
+893 Leopoldina,893,1918 DS,Leopoldina,"May 31, 1918",Heidelberg,M. F. Wolf,·,86.0
+894 Erda,894,1918 DT,Erda,"June 4, 1918",Heidelberg,M. F. Wolf,·,28.0
+895 Helio,895,1918 DU,Helio,"July 11, 1918",Heidelberg,M. F. Wolf,(895),110.0
+896 Sphinx,896,1918 DV,Sphinx,"August 1, 1918",Heidelberg,M. F. Wolf,·,12.0
+897 Lysistrata,897,1918 DZ,Lysistrata,"August 3, 1918",Heidelberg,M. F. Wolf,MAR,24.0
+898 Hildegard,898,1918 EA,Hildegard,"August 3, 1918",Heidelberg,M. F. Wolf,·,12.0
+899 Jokaste,899,1918 EB,Jokaste,"August 3, 1918",Heidelberg,M. F. Wolf,·,31.0
+900 Rosalinde,900,1918 EC,Rosalinde,"August 10, 1918",Heidelberg,M. F. Wolf,·,20.0
+901 Brunsia,901,1918 EE,Brunsia,"August 30, 1918",Heidelberg,M. F. Wolf,·,13.0
+902 Probitas,902,1918 EJ,Probitas,"September 3, 1918",Vienna,J. Palisa,·,8.6
+903 Nealley,903,1918 EM,Nealley,"September 13, 1918",Vienna,J. Palisa,·,58.0
+904 Rockefellia,904,1918 EO,Rockefellia,"October 29, 1918",Heidelberg,M. F. Wolf,·,49.0
+905 Universitas,905,1918 ES,Universitas,"October 30, 1918",Hamburg-Bergedorf,A. Schwassmann,·,12.0
+906 Repsolda,906,1918 ET,Repsolda,"October 30, 1918",Hamburg-Bergedorf,A. Schwassmann,·,66.0
+907 Rhoda,907,1918 EU,Rhoda,"November 12, 1918",Heidelberg,M. F. Wolf,·,83.0
+908 Buda,908,1918 EX,Buda,"November 30, 1918",Heidelberg,M. F. Wolf,PHO,31.0
+909 Ulla,909,1919 FA,Ulla,"February 7, 1919",Heidelberg,K. Reinmuth,ULA · CYB,116.0
+910 Anneliese,910,1919 FB,Anneliese,"March 1, 1919",Heidelberg,K. Reinmuth,·,49.0
+911 Agamemnon,911,1919 FD,Agamemnon,"March 19, 1919",Heidelberg,K. Reinmuth,L4,131.0
+912 Maritima,912,1919 FJ,Maritima,"April 27, 1919",Hamburg-Bergedorf,A. Schwassmann,slow,83.0
+913 Otila,913,1919 FL,Otila,"May 19, 1919",Heidelberg,K. Reinmuth,·,12.0
+914 Palisana,914,1919 FN,Palisana,"July 4, 1919",Heidelberg,M. F. Wolf,PHO,76.0
+915 Cosette,915,1918 b,Cosette,"December 14, 1918",Algiers,F. Gonnessiat,·,12.0
+916 America,916,Σ 1,America,"August 7, 1915",Crimea-Simeis,G. N. Neujmin,·,33.0
+917 Lyka,917,Σ 4,Lyka,"September 5, 1915",Crimea-Simeis,G. N. Neujmin,·,35.0
+918 Itha,918,1919 FR,Itha,"August 22, 1919",Heidelberg,K. Reinmuth,·,22.0
+919 Ilsebill,919,1918 EQ,Ilsebill,"October 30, 1918",Heidelberg,M. F. Wolf,·,34.0
+920 Rogeria,920,1919 FT,Rogeria,"September 1, 1919",Heidelberg,K. Reinmuth,·,27.0
+921 Jovita,921,1919 FV,Jovita,"September 4, 1919",Heidelberg,K. Reinmuth,·,55.0
+922 Schlutia,922,1919 FW,Schlutia,"September 18, 1919",Heidelberg,K. Reinmuth,·,19.0
+923 Herluga,923,1919 GB,Herluga,"September 30, 1919",Heidelberg,K. Reinmuth,·,35.0
+924 Toni,924,1919 GC,Toni,"October 20, 1919",Heidelberg,K. Reinmuth,·,85.0
+925 Alphonsina,925,1920 GM,Alphonsina,"January 13, 1920",Barcelona,J. Comas i Solà,·,58.0
+926 Imhilde,926,1920 GN,Imhilde,"February 15, 1920",Heidelberg,K. Reinmuth,·,48.0
+927 Ratisbona,927,1920 GO,Ratisbona,"February 16, 1920",Heidelberg,M. F. Wolf,·,76.0
+928 Hildrun,928,1920 GP,Hildrun,"February 23, 1920",Heidelberg,K. Reinmuth,·,63.0
+929 Algunde,929,1920 GR,Algunde,"March 10, 1920",Heidelberg,K. Reinmuth,·,11.0
+930 Westphalia,930,1920 GS,Westphalia,"March 10, 1920",Hamburg-Bergedorf,W. Baade,PHO · slow,35.0
+931 Whittemora,931,1920 GU,Whittemora,"March 19, 1920",Algiers,F. Gonnessiat,·,45.0
+932 Hooveria,932,1920 GV,Hooveria,"March 23, 1920",Vienna,J. Palisa,·,59.0
+933 Susi,933,1927 CH,Susi,"February 10, 1927",Heidelberg,K. Reinmuth,ERI,22.0
+934 Thüringia,934,1920 HK,Thüringia,"August 15, 1920",Hamburg-Bergedorf,W. Baade,·,54.0
+935 Clivia,935,1920 HM,Clivia,"September 7, 1920",Heidelberg,K. Reinmuth,·,6.4
+936 Kunigunde,936,1920 HN,Kunigunde,"September 8, 1920",Heidelberg,K. Reinmuth,THM ·,43.0
+937 Bethgea,937,1920 HO,Bethgea,"September 12, 1920",Heidelberg,K. Reinmuth,·,11.0
+938 Chlosinde,938,1920 HQ,Chlosinde,"September 9, 1920",Heidelberg,K. Reinmuth,THM,33.0
+939 Isberga,939,1920 HR,Isberga,"October 4, 1920",Heidelberg,K. Reinmuth,moon,10.0
+940 Kordula,940,1920 HT,Kordula,"October 10, 1920",Heidelberg,K. Reinmuth,CYB,80.0
+941 Murray,941,1920 HV,Murray,"October 10, 1920",Vienna,J. Palisa,·,18.0
+942 Romilda,942,1920 HW,Romilda,"October 11, 1920",Heidelberg,K. Reinmuth,·,37.0
+943 Begonia,943,1920 HX,Begonia,"October 20, 1920",Heidelberg,K. Reinmuth,·,71.0
+944 Hidalgo,944,1920 HZ,Hidalgo,"October 31, 1920",Hamburg-Bergedorf,W. Baade,Tj (2.07) · unusual,38.0
+945 Barcelona,945,1921 JB,Barcelona,"February 3, 1921",Barcelona,J. Comas i Solà,BAR,26.0
+946 Poësia,946,1921 JC,Poësia,"February 11, 1921",Heidelberg,M. F. Wolf,THM · slow,36.0
+947 Monterosa,947,1921 JD,Monterosa,"February 8, 1921",Hamburg-Bergedorf,A. Schwassmann,·,26.0
+948 Jucunda,948,1921 JE,Jucunda,"March 3, 1921",Heidelberg,K. Reinmuth,·,17.0
+949 Hel,949,1921 JK,Hel,"March 11, 1921",Heidelberg,M. F. Wolf,·,63.0
+950 Ahrensa,950,1921 JP,Ahrensa,"April 1, 1921",Heidelberg,K. Reinmuth,PHO · slow,14.0
+951 Gaspra,951,Σ 45,Gaspra,"July 30, 1916",Crimea-Simeis,G. N. Neujmin,·,12.0
+952 Caia,952,Σ 61,Caia,"October 27, 1916",Crimea-Simeis,G. N. Neujmin,·,89.0
+953 Painleva,953,1921 JT,Painleva,"April 29, 1921",Algiers,B. Jekhovsky,·,24.0
+954 Li,954,1921 JU,Li,"August 4, 1921",Heidelberg,K. Reinmuth,THM,59.0
+955 Alstede,955,1921 JV,Alstede,"August 5, 1921",Heidelberg,K. Reinmuth,·,17.0
+956 Elisa,956,1921 JW,Elisa,"August 8, 1921",Heidelberg,K. Reinmuth,·,10.0
+957 Camelia,957,1921 JX,Camelia,"September 7, 1921",Heidelberg,K. Reinmuth,·,92.0
+958 Asplinda,958,1921 KC,Asplinda,"September 28, 1921",Heidelberg,K. Reinmuth,3:2,45.0
+959 Arne,959,1921 KF,Arne,"September 30, 1921",Heidelberg,K. Reinmuth,slow,45.0
+960 Birgit,960,1921 KH,Birgit,"October 1, 1921",Heidelberg,K. Reinmuth,·,7.5
+961 Gunnie,961,1921 KM,Gunnie,"October 10, 1921",Heidelberg,K. Reinmuth,·,37.0
+962 Aslög,962,1921 KP,Aslög,"October 25, 1921",Heidelberg,K. Reinmuth,KOR,20.0
+963 Iduberga,963,1921 KR,Iduberga,"October 26, 1921",Heidelberg,K. Reinmuth,·,9.0
+964 Subamara,964,1921 KS,Subamara,"October 27, 1921",Vienna,J. Palisa,·,20.0
+965 Angelica,965,1921 KT,Angelica,"November 4, 1921",La Plata Observatory,J. Hartmann,·,61.0
+966 Muschi,966,1921 KU,Muschi,"November 9, 1921",Hamburg-Bergedorf,W. Baade,EUN,26.0
+967 Helionape,967,1921 KV,Helionape,"November 9, 1921",Hamburg-Bergedorf,W. Baade,·,10.0
+968 Petunia,968,1921 KW,Petunia,"November 24, 1921",Heidelberg,K. Reinmuth,·,24.0
+969 Leocadia,969,1921 KZ,Leocadia,"November 5, 1921",Crimea-Simeis,S. Belyavsky,·,17.0
+970 Primula,970,1921 LB,Primula,"November 29, 1921",Heidelberg,K. Reinmuth,·,9.2
+971 Alsatia,971,1921 LF,Alsatia,"November 23, 1921",Nice,A. Schaumasse,·,61.0
+972 Cohnia,972,1922 LK,Cohnia,"January 18, 1922",Heidelberg,M. F. Wolf,·,78.0
+973 Aralia,973,1922 LR,Aralia,"March 18, 1922",Heidelberg,K. Reinmuth,URS,52.0
+974 Lioba,974,1922 LS,Lioba,"March 18, 1922",Heidelberg,K. Reinmuth,·,25.0
+975 Perseverantia,975,1922 LT,Perseverantia,"March 27, 1922",Vienna,J. Palisa,KOR,22.0
+976 Benjamina,976,1922 LU,Benjamina,"March 27, 1922",Algiers,B. Jekhovsky,·,83.0
+977 Philippa,977,1922 LV,Philippa,"April 6, 1922",Algiers,B. Jekhovsky,·,65.0
+978 Aidamina,978,1922 LY,Aidamina,"May 18, 1922",Crimea-Simeis,S. Belyavsky,·,92.0
+979 Ilsewa,979,1922 MC,Ilsewa,"June 29, 1922",Heidelberg,K. Reinmuth,·,36.0
+980 Anacostia,980,1921 W 19,Anacostia,"November 21, 1921",Washington,G. H. Peters,·,75.0
+981 Martina,981,Σ 92,Martina,"September 23, 1917",Crimea-Simeis,S. Belyavsky,THM,33.0
+982 Franklina,982,1922 MD,Franklina,"May 21, 1922",Johannesburg,H. E. Wood,slow,33.0
+983 Gunila,983,1922 ME,Gunila,"July 30, 1922",Heidelberg,K. Reinmuth,·,74.0
+984 Gretia,984,1922 MH,Gretia,"August 27, 1922",Heidelberg,K. Reinmuth,·,32.0
+985 Rosina,985,1922 MO,Rosina,"October 14, 1922",Heidelberg,K. Reinmuth,·,8.4
+986 Amelia,986,1922 MQ,Amelia,"October 19, 1922",Barcelona,J. Comas i Solà,·,49.0
+987 Wallia,987,1922 MR,Wallia,"October 23, 1922",Heidelberg,K. Reinmuth,·,53.0
+988 Appella,988,1922 MT,Appella,"November 10, 1922",Algiers,B. Jekhovsky,slow,20.0
+989 Schwassmannia,989,1922 MW,Schwassmannia,"November 18, 1922",Hamburg-Bergedorf,A. Schwassmann,slow,13.0
+990 Yerkes,990,1922 MZ,Yerkes,"November 23, 1922",Williams Bay,G. Van Biesbroeck,·,21.0
+991 McDonalda,991,1922 NB,McDonalda,"October 24, 1922",Williams Bay,O. Struve,THM,39.0
+992 Swasey,992,1922 ND,Swasey,"November 14, 1922",Williams Bay,O. Struve,·,28.0
+993 Moultona,993,1923 NJ,Moultona,"January 12, 1923",Williams Bay,G. Van Biesbroeck,KOR,12.0
+994 Otthild,994,1923 NL,Otthild,"March 18, 1923",Heidelberg,K. Reinmuth,·,21.0
+995 Sternberga,995,1923 NP,Sternberga,"June 8, 1923",Crimea-Simeis,S. Belyavsky,·,20.0
+996 Hilaritas,996,1923 NM,Hilaritas,"March 21, 1923",Vienna,J. Palisa,THM,29.0
+997 Priska,997,1923 NR,Priska,"July 12, 1923",Heidelberg,K. Reinmuth,ADE,20.0
+998 Bodea,998,1923 NU,Bodea,"August 6, 1923",Heidelberg,K. Reinmuth,·,32.0
+999 Zachia,999,1923 NW,Zachia,"August 9, 1923",Heidelberg,K. Reinmuth,·,17.0
+1000 Piazzia,1000,1923 NZ,Piazzia,"August 12, 1923",Heidelberg,K. Reinmuth,·,48.0
